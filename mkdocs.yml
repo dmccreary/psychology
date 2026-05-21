@@ -133,6 +133,7 @@ extra_css:
 exclude_docs: |
   **/image-prompt*.md
   **/image-prompts*.md
+  **/character-sheet.md
   **/cover-prompt.md
   **/TODO.md
   **/index-template.md

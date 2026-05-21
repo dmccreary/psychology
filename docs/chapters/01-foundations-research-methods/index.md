@@ -442,4 +442,4 @@ As you move through AP Psychology, return to this chapter whenever you encounter
 
 ---
 
-*Continue to [Chapter 2: Biological Bases of Behavior →](../02-biological-bases-of-behavior/index.md)*
+*Continue to [Chapter 2: Biological Bases of Behavior →](../02-biological-bases-behavior/index.md)*
