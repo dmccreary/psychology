@@ -1,0 +1,10 @@
+{
+  "title": "AP Psychology",
+  "description": "A comprehensive intelligent textbook for AP Psychology covering the five College Board CED units: Biological Bases of Behavior, Cognition, Development and Learning, Social Psychology and Personality, and Mental and Physical Health. Aligned with the AP Psychology Course and Exam Description (CED), Effective Fall 2024.",
+  "creator": "Dan McCreary",
+  "date": "2026-05-21",
+  "version": "1.0",
+  "format": "Learning Graph JSON v1.0",
+  "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+  "license": "CC BY-NC-SA 4.0 DEED"
+}
