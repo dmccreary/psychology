@@ -48,7 +48,7 @@ This chapter builds on concepts from:
 ## 11.1 Social Psychology: Overview and Social Norms
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 11" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 11" class="mascot-admonition-img">
     **Welcome to Chapter 11 — the psychology of people affecting people!**
 
     Imagine you're alone in an elevator. You stand facing the door, probably not talking, keeping a certain personal distance. Now imagine four strangers enter. You adjust your position, you likely stay quiet, and if someone starts talking to you, you respond with particular social calibration. What's happening there? You're responding to **social norms** — the invisible rules that govern social behavior — and you're doing it almost automatically.
@@ -81,7 +81,7 @@ The classic demonstration: participants read an essay arguing for or against Fid
 Why does this happen? One explanation is that people are more salient than situations — when you watch someone, you watch *them*, not the background. The situation is literally in the background and less visually salient. Another explanation involves the cognitive effort required: dispositional explanations are simpler and require less information.
 
 !!! mascot-thinking
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" class="mascot-admonition-img">
     **Psy's Note:** The FAE has significant real-world consequences. It leads people to blame individuals for poverty ("they're lazy") when structural factors are often dominant, to over-attribute criminal behavior to character flaws rather than circumstances, and to over-attribute success to talent rather than opportunity and context. The FAE is not just an academic error — it has political and moral implications.
 
 ### Actor-Observer Bias
@@ -147,7 +147,7 @@ Two compliance techniques exploit the social dynamics of commitment and reciproc
 **Door-in-the-face technique**: Begin with a large, likely-to-be-refused request, then follow with a smaller, more reasonable request. The second request feels like a concession, activating the norm of reciprocity — the target feels obligated to reciprocate the requester's "concession" by agreeing to the smaller request.
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" class="mascot-admonition-img">
     **Psy's AP Exam Tip:** Know both compliance techniques by name and mechanism. A common AP question gives a scenario and asks which technique is being used. Key: foot-in-the-door = start small; door-in-the-face = start large, then reduce. The face the door is slammed in belongs to the requester in the second technique.
 
 ---
@@ -238,7 +238,7 @@ The mechanism appears to involve:
 Stereotype threat can be reduced by reminding individuals of identities inconsistent with the stereotype, through self-affirmation, or by explicitly making the stereotype irrelevant.
 
 !!! mascot-thinking
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:right;width:90px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" class="mascot-admonition-img">
     **Psy's Note:** Stereotype threat is important to the AP exam not just as a concept to memorize but as an explanation for group differences in test performance that doesn't require attributing the difference to the group itself. The effect operates *on top of* whatever underlying skill differences exist. It is a situational factor that affects otherwise-capable individuals.
 
 ---
@@ -263,7 +263,7 @@ I-O psychology is one of the fastest-growing areas of psychology and one of the 
 ## 11.9 Chapter Review
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Excellent work finishing Chapter 11!**
 
     You've now seen that human behavior is far more situationally determined than most people assume. The fundamental attribution error leads us to over-blame individuals; cognitive dissonance leads us to rationalize our own inconsistencies; the Asch studies show that people will deny what their own eyes tell them to fit in with a group; and stereotype threat shows that mere awareness of social expectations can undermine performance.

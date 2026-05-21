@@ -53,7 +53,7 @@ This chapter builds on concepts from:
 ## 6.1 Types of Memory: A Map of the System
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 6" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 6" class="mascot-admonition-img">
     **Welcome to Chapter 6 — where we explore the architecture of memory!**
 
     Have you ever forgotten where you put your phone ten seconds after setting it down, yet still remember every word to a song you haven't heard in five years? Memory is not a single thing — it is a collection of interacting systems, each specialized for different kinds of information. Some memories are conscious and deliberate; others operate invisibly, guiding your hands on a keyboard or your feet on a bicycle without any effort at all.
@@ -163,7 +163,7 @@ This interactive diagram animates the flow of information through the three memo
 </details>
 
 !!! tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" class="mascot-admonition-img">
     **AP Exam shorthand for the three stores:**
 
     - **Sensory Memory** → huge capacity, tiny duration (< 1 s visual, ~4 s auditory)
@@ -245,7 +245,7 @@ LTP was first demonstrated in the hippocampus, a brain structure critically impo
 Understanding LTP explains several important memory phenomena: why spaced practice is more effective than massed practice (each spaced trial re-activates the synapse from a rested state, triggering stronger LTP), why sleep aids memory consolidation (hippocampal "replay" during slow-wave sleep appears to consolidate LTP-dependent memories), and why stress hormones can both enhance (for emotionally significant events) and impair (for chronic stress) memory formation.
 
 !!! note
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" class="mascot-admonition-img">
     **Connecting biology to behavior:**
 
     Long-term potentiation is the biological mechanism that explains *why* deep processing works. When you process information semantically, you activate a broader network of existing synapses alongside the new material. The co-activation of many synapses at once is precisely the condition that triggers LTP most strongly — so the "why" of the levels-of-processing effect turns out to be a story about synaptic coincidence detection.
@@ -347,7 +347,7 @@ The table below summarizes the key models and their core claims:
 | Long-Term Potentiation | Bliss & Lømo (1973) | Repeated co-activation strengthens synapses | NMDA receptor, Hebb's rule, engram |
 
 !!! mascot-celebrate
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Excellent work — you have built a complete model of memory!**
 
     You now understand memory not as one thing but as an intricate, multi-layered system: sensory buffers feeding a dynamic workspace, governed by attention and rehearsal, with deep encoding etching durable traces through synaptic strengthening. You know *why* spacing works, *why* mnemonics work, and *why* the middle of a list is a forgetting danger zone.

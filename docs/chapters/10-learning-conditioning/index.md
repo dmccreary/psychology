@@ -58,7 +58,7 @@ This chapter builds on concepts from:
 ## 10.1 Classical Conditioning
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 10" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 10" class="mascot-admonition-img">
     **Welcome to Chapter 10 — where we learn how learning works!**
 
     Here's something remarkable: every time you feel your stomach drop when you hear a specific ringtone associated with a stressful call, every time the smell of sunscreen sends you back to a childhood beach, and every time your pulse quickens before a big exam — that's learning at work. You've been conditioned, in the technical sense of the word.
@@ -99,7 +99,7 @@ Once a CS has been conditioned, **stimulus generalization** occurs when stimuli 
 Evidence for this comes from **spontaneous recovery**: after extinction and a rest period, the extinguished CR reappears (often weaker than the original) when the CS is presented again. This shows the original CS–UCS association was not erased but suppressed.
 
 !!! mascot-thinking
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" class="mascot-admonition-img">
     **Psy's Note:** Spontaneous recovery has clinical implications. A phobia that seems to be extinguished in therapy (through exposure) can "spontaneously recover" when the patient encounters the feared stimulus after a gap. This is why single rounds of exposure therapy are often not sufficient — repeated exposures across different contexts are needed to prevent return of fear.
 
 ### Conditioned Emotional Responses
@@ -201,7 +201,7 @@ Four basic partial schedules:
 Variable ratio schedules produce the most behavior and are most resistant to extinction — this is why gambling can be so compelling and why intermittent social media reinforcement drives constant checking.
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" class="mascot-admonition-img">
     **Psy's AP Exam Tip:** Be able to identify each schedule from a description and explain why variable ratio schedules produce the highest, most persistent response rates. The slot machine analogy is the classic example — use it on the exam.
 
 ---
@@ -244,7 +244,7 @@ Bandura identified four processes required for effective observational learning:
 Bandura's most famous research is the **Bobo doll study** (1961). Children watched an adult model either behave aggressively toward an inflatable "Bobo" doll (punching, kicking, using a mallet) or play non-aggressively. Children who observed the aggressive model were significantly more likely to display similar aggression toward the doll when given the opportunity — and they invented novel forms of aggression the model had not demonstrated, showing that observation produced learned behavioral scripts, not just mimicry.
 
 !!! mascot-thinking
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:right;width:90px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" class="mascot-admonition-img">
     **Psy's Note:** The Bobo doll study has been enormously influential in debates about media violence. Critics point out that punching an inflatable doll is not the same as harming a person, and that demand characteristics (the laboratory setting "said" it was okay to be aggressive) may have inflated the effect. The relationship between media violence and real-world aggression remains contested in the research literature — more nuanced than either "media causes violence" or "media has no effect."
 
 ### Self-Efficacy
@@ -290,7 +290,7 @@ A **growth mindset** is the implicit theory that ability can be developed throug
 Mindset is not a stable personality trait but a learnable framework. Dweck's intervention research has shown that brief interventions teaching students that the brain is like a muscle — changing with practice — can improve academic outcomes, particularly for students from groups under stereotype threat.
 
 !!! mascot-encourage
-    <img src="../../img/mascot/encouraging.png" alt="Psy the Owl encouraging" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/encouraging.png" alt="Psy the Owl encouraging" class="mascot-admonition-img">
     **Psy's Encouragement:** The growth mindset framework is not just pop psychology — it has real experimental support. But it is most powerful when *combined* with concrete learning strategies (spaced practice, retrieval practice, interleaving) rather than delivered as a standalone pep talk. "Try harder" without "here's how to practice effectively" is not enough.
 
 The connection to neuroplasticity is explicit: a growth mindset is, in a sense, a psychologically accurate understanding of how learning works. The brain really does change with practice. Fixed-mindset beliefs are, in part, empirically incorrect beliefs about neuroscience.
@@ -300,7 +300,7 @@ The connection to neuroplasticity is explicit: a growth mindset is, in a sense, 
 ## 10.7 Chapter Review
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Brilliant work completing Chapter 10!**
 
     You've covered an enormous amount of ground — from Pavlov's dogs salivating at bells, to Skinner's pigeons on variable ratio schedules, to Bandura's children modeling aggression, to Seligman's dogs lying passive in the face of escapable shock. These aren't just historical anecdotes — they're the foundational building blocks of behavior change, education, clinical psychology, and our understanding of how experience rewires the brain.

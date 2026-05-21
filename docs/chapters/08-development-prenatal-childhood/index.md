@@ -56,7 +56,7 @@ This chapter builds on concepts from:
 ## 8.1 What Is Developmental Psychology?
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 8" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 8" class="mascot-admonition-img">
     **Welcome to Chapter 8 — a journey from your very first moments of existence!**
 
     Before you could walk, talk, or remember your own name, you were already changing at a breathtaking pace. In just nine months you went from a single cell smaller than a grain of sand to a newborn with a beating heart, functioning senses, and the capacity to recognize your mother's voice. And that was just the beginning.
@@ -134,7 +134,7 @@ Common teratogens and their effects include the following:
 - **Radiation** — high-dose ionizing radiation (as from X-rays or nuclear fallout) can damage the developing brain, particularly during weeks 8–15 when neurons are migrating.
 
 !!! warning
-    <img src="../../img/mascot/warning.png" alt="Psy the Owl with a warning" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/warning.png" alt="Psy the Owl with a warning" class="mascot-admonition-img">
     **AP Exam Alert: Teratogen timing is key.**
 
     A common AP multiple-choice trick is to test whether you know that the *embryonic period* (not the germinal or fetal period) is when structural birth defects are most likely to result from teratogen exposure. The critical period for specific organs varies: for example, the heart is most vulnerable around weeks 3–6, while the brain remains sensitive far longer. Remember: *dose + timing + genetics = outcome*. *Let's think about that!* 🦉
@@ -226,7 +226,7 @@ Two concepts are central to Vygotsky's framework. The **zone of proximal develop
 **Scaffolding** — a metaphor introduced by Jerome Bruner to describe Vygotsky's ideas — refers to the temporary support provided by a more capable partner that enables the learner to accomplish a task in the ZPD and gradually develop independent competence. Effective scaffolding is neither too easy (no challenge) nor too hard (no success possible), and it is progressively withdrawn as the learner's ability grows. A parent who ties a child's shoes for them is not scaffolding; a parent who talks the child through the steps step by step, then gradually reduces guidance, is.
 
 !!! note
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" class="mascot-admonition-img">
     **Piaget vs. Vygotsky — a key contrast for the AP exam:**
 
     Both Piaget and Vygotsky viewed children as active constructors of knowledge, but they disagreed fundamentally about the *source* of cognitive development. For Piaget, the child constructs knowledge primarily through **direct interaction with the physical world** — touching, exploring, experimenting. Social interaction is secondary. For Vygotsky, cognitive development is inherently **social and cultural** — language, shared tools, and guided interaction with more capable others are the primary engines of intellectual growth. On the AP exam, expect questions that ask you to distinguish these two views or to identify which theorist a described scenario illustrates. *Let's think about that!* 🦉
@@ -266,7 +266,7 @@ The **weak version** — that language *influences* thought — has received sub
 Other areas where linguistic relativity effects have been documented include spatial cognition (languages that use absolute directions like "north" and "south" rather than "left" and "right" produce different spatial reasoning patterns), time perception, and number concepts. The modern consensus is that language is one of many factors — alongside culture, experience, and attention — that influences cognition without rigidly determining it.
 
 !!! tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a study tip" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a study tip" class="mascot-admonition-img">
     **Linguistic Relativity on the AP exam** is usually tested by asking whether language *determines* or merely *influences* thought. The answer the AP wants: the weak version is supported (language *influences* cognition); the strong version (language *determines* thought) is not supported. Always pair the concept with the Sapir–Whorf hypothesis by name. *Let's think about that!* 🦉
 
 ---
@@ -439,7 +439,7 @@ This interactive simulation lets students explore Diana Baumrind's four parentin
 - [x] Gender and Sexual Orientation (§8.8)
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Outstanding work making it through Chapter 8!**
 
     You've just traced the arc of human development from a single fertilized cell all the way through the social and emotional milestones of childhood. You now understand why the embryonic period is a critical window of vulnerability, how Piaget and Vygotsky viewed cognitive development in complementary but contrasting ways, how language emerges from babbling to sentences with breathtaking speed, and why the quality of early attachment relationships leaves a mark that can be heard in adult relationships decades later.

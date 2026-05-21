@@ -51,7 +51,7 @@ This chapter builds on concepts from:
 ## 15.1 Neurodevelopmental Disorders
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 15" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 15" class="mascot-admonition-img">
     **Welcome to Chapter 15 — the full clinical survey!**
 
     In Chapter 14, you built the conceptual framework: the biopsychosocial model, the DSM/ICD systems, the four explanatory perspectives, and the diathesis-stress model. Now we populate that framework with the disorders themselves — anxiety disorders, OCD, schizophrenia, personality disorders, neurodevelopmental disorders, and more.
@@ -86,7 +86,7 @@ Key features:
 Prevalence is approximately 1 in 36 children in the United States (CDC, 2023). Causes involve genetic factors (many genes, each of small effect) plus prenatal environment; the now-thoroughly-disproven vaccine hypothesis arose from a fraudulent 1998 study that was retracted and whose lead author lost his medical license.
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" class="mascot-admonition-img">
     **Psy's AP Exam Tip:** Know the two core diagnostic criteria for ASD (social-communication deficits + restricted/repetitive behavior). The vaccine-autism claim is definitively false — knowing this may be relevant for an experimental design or research methods question.
 
 ---
@@ -327,7 +327,7 @@ The DSM-5's Cultural Formulation Interview and the development of culturally ada
 ## 15.11 Chapter Review
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Outstanding work completing Chapter 15!**
 
     You've just surveyed the full range of psychological disorders and therapy approaches covered on the AP exam. This chapter and the next are often the most personally meaningful for students — most of us know someone (or are someone) who has experienced anxiety, depression, OCD, or another disorder covered here.

@@ -53,7 +53,7 @@ This chapter builds on concepts from:
 ## 7.1 How Retrieval Works
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 7" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 7" class="mascot-admonition-img">
     **Welcome to Chapter 7 — where we explore the art (and science) of remembering!**
 
     Have you ever walked into a room and immediately forgotten why you went there? Or struggled to recall a classmate's name even though you've seen them every day? Memory isn't just about storing information — it's about *getting it back out again*. And retrieval turns out to be surprisingly fragile, context-sensitive, and sometimes downright unreliable.
@@ -144,7 +144,7 @@ Before moving to forgetting, it is important to revisit two encoding-related con
 The practical implication for studying is stark: re-reading notes (primarily maintenance rehearsal) is one of the least effective study strategies. Generating explanations, making connections, and self-testing (all elaborative rehearsal) are far more effective — a finding backed by decades of cognitive research.
 
 !!! tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a study tip" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a study tip" class="mascot-admonition-img">
     **On the AP exam, maintenance vs. elaborative rehearsal is almost always framed this way:**
 
     - A student repeats vocabulary words over and over → **Maintenance rehearsal** (keeps info in working memory, poor transfer to LTM)
@@ -190,7 +190,7 @@ This simulation lets you experience and analyze the serial position effect direc
 </details>
 
 !!! note
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" class="mascot-admonition-img">
     **Why the primacy–recency distinction matters for real life:**
 
     Jury members remember the first and last evidence they hear more vividly than the middle. Job interviewers give disproportionate weight to the beginning and end of an interview. Teachers who understand the serial position effect put the most critical content at the beginning *and* end of a lesson, not buried in the middle. Knowing your own memory's architecture lets you design learning environments that work *with* it rather than against it. *Let's think about that!* 🦉
@@ -288,7 +288,7 @@ Repression is one of the most debated topics in psychology. On one hand, there i
 For AP Psychology purposes, it is important to know both the psychoanalytic definition of repression (motivated unconscious forgetting of threatening material) and the contemporary scientific critique (limited direct evidence; danger of false memory creation through suggestive techniques).
 
 !!! warning
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking carefully" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking carefully" class="mascot-admonition-img">
     **On the AP exam, be careful with repression:**
 
     The AP exam will test whether you know the *psychoanalytic* definition of repression (Freud — unconscious motivated forgetting of threatening material) separately from the broader scientific discussion of motivated forgetting. Do not confuse repression with suppression (conscious, deliberate attempts to avoid thinking about something) or with ordinary forgetting due to decay or interference. *Let's think about that!* 🦉
@@ -377,7 +377,7 @@ This interactive diagram visualizes the two types of amnesia in relation to a me
 </details>
 
 !!! mascot-celebrate
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Outstanding — you have mapped the full landscape of memory retrieval, forgetting, and distortion!**
 
     In just one chapter you have learned why memories are harder to get back out than to put in, why the same information learned in different contexts is harder to recall, how forgetting follows a predictable mathematical curve that you can bend with the right strategies, and how profoundly unreliable memory can be when it is reconstructed under suggestive conditions. You have also seen what happens when the machinery of memory breaks down — revealing, through the tragedies of amnesia, just how elegantly the system works when it is intact.

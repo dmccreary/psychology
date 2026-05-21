@@ -46,7 +46,7 @@ This chapter builds on concepts from:
 ## 9.1 Piaget's Later Stages: Concrete and Formal Operations
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 9" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 9" class="mascot-admonition-img">
     **Welcome back — you're now walking into the second half of the developmental story!**
 
     Think back to the last chapter. You traced a human life from a single fertilized egg through the first babbled words. In Chapter 9, the story picks up where the child's logical mind starts to click into gear — and doesn't stop until we're talking about the wisdom of old age and the psychology of grief.
@@ -78,7 +78,7 @@ Children master number conservation before volume conservation — a phenomenon 
 Related to concrete operations, **egocentrism** in Piaget's usage does not mean selfishness or conceit — it means the cognitive inability to take another person's visual or conceptual perspective. The classic demonstration is the **three-mountain task**: a child sits at a table with a three-dimensional model of three mountains and is shown a doll placed on the opposite side. Preoperational children, when asked what the doll sees, typically describe their own viewpoint rather than the doll's. By the concrete operational stage, children can correctly infer the doll's perspective.
 
 !!! mascot-thinking
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" class="mascot-admonition-img">
     **Psy's Note:** Egocentrism applies beyond visual perspective. Ask a four-year-old to explain a game to someone else, and they'll leave out information they assume the listener already knows — because they can't yet model what the listener does or doesn't know. This is the same mechanism that creates theory of mind limitations.
 
 ### Formal Operational Stage
@@ -136,7 +136,7 @@ Effective scaffolding has several features:
 Examples range from a parent holding a bicycle seat and gradually letting go, to a teacher modeling a math problem, to a more skilled peer suggesting a strategy during a group project.
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" class="mascot-admonition-img">
     **Psy's Tip — Piaget vs. Vygotsky:** These two theorists are often presented as opponents, but they're complementary. Piaget mapped the *stages* of independent cognitive achievement. Vygotsky mapped the *social process* by which those achievements are facilitated. On the AP exam, know that Vygotsky emphasizes culture, language, and social interaction more than Piaget does.
 
 ### Critical Period for Language
@@ -208,7 +208,7 @@ Note: Authoritative parenting has the strongest research support in Western, mid
 The standard test for theory of mind is the **false-belief task** (Sally-Anne task): children are shown that Sally puts a marble in a basket, then leaves the room. While Sally is absent, Anne moves the marble to a box. Children are asked where Sally will look for the marble when she returns. Children under about age 4 typically say "the box" — they know where the marble actually is, and they can't represent that Sally holds a false belief (that the marble is still in the basket). By age 4–5, most children correctly say Sally will look in the basket.
 
 !!! mascot-thinking
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:right;width:90px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" class="mascot-admonition-img">
     **Psy's Note:** Theory of mind is also relevant to autism spectrum disorder. Many individuals on the autism spectrum show delays or differences in theory of mind development, which can affect social communication and the ability to intuitively predict others' behavior. Simon Baron-Cohen called this "mindblindness." This concept will return in Chapter 15.
 
 ---
@@ -284,7 +284,7 @@ Gilligan's three levels of the ethics of care are:
 Contemporary moral psychologists largely agree that both justice and care orientations are genuine moral frameworks, and that gender differences in their use are more a matter of tendency than absolute division.
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" class="mascot-admonition-img">
     **Psy's AP Exam Tip:** Know the three levels of Kohlberg (pre-conventional, conventional, post-conventional) and be able to classify sample statements. Also know that Gilligan critiques Kohlberg's model as reflecting a male-oriented justice framework and proposes an alternative care-based framework focused on relationships and responsibility.
 
 ---
@@ -349,7 +349,7 @@ Being "off-time" — too early or too late — can produce social pressure, self
 Importantly, the social clock is not fixed — it varies dramatically by culture, historical era, gender, and socioeconomic status, and has shifted considerably across generations. The average age of first marriage in the United States has risen from the early 20s in the 1960s to the late 20s today, reflecting a cultural renegotiation of the social clock.
 
 !!! mascot-encourage
-    <img src="../../img/mascot/encouraging.png" alt="Psy the Owl encouraging" style="float:right;width:90px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/encouraging.png" alt="Psy the Owl encouraging" class="mascot-admonition-img">
     **Psy's Encouragement:** The social clock concept is a reminder that many of the pressures people feel about life "falling behind schedule" are social constructions, not biological requirements. Knowing this is a psychological insight with real practical value — for yourself and for future clients, friends, or family members who feel stuck or behind.
 
 ### Kübler-Ross Grief Stages
@@ -396,7 +396,7 @@ Kübler-Ross emphasized that these stages do not proceed in a fixed linear order
 </details>
 
 !!! mascot-neutral
-    <img src="../../img/mascot/neutral.png" alt="Psy the Owl in neutral pose" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/neutral.png" alt="Psy the Owl in neutral pose" class="mascot-admonition-img">
     **Psy's Note — A Note on Grief Research:** David Kessler, who collaborated with Kübler-Ross late in her career, proposed a sixth stage: *Finding Meaning*. George Bonanno's research has challenged the universality of the five-stage model, finding that many bereaved individuals show resilience — they do not cycle through distinct stages but rather experience manageable sadness that resolves within months. The stages remain useful as a clinical communication tool, but the science cautions against treating them as a universal roadmap.
 
 ---
@@ -404,7 +404,7 @@ Kübler-Ross emphasized that these stages do not proceed in a fixed linear order
 ## 9.8 Chapter Review
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Outstanding work making it through Chapter 9!**
 
     You've now traced human cognitive and social development from the concrete operations of a seven-year-old to the wisdom and grief of late adulthood. That's an enormous arc — and you now have the frameworks to understand it: Piaget's stages, Vygotsky's ZPD, Kohlberg's moral reasoning, Gilligan's ethics of care, the social clock, Kübler-Ross's grief model, and the fluid/crystallized intelligence distinction.

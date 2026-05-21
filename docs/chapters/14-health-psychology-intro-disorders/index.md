@@ -52,7 +52,7 @@ This chapter builds on concepts from:
 ## 14.1 Health Psychology
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 14" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 14" class="mascot-admonition-img">
     **Welcome to Chapter 14 — where psychology meets physical health and clinical science!**
 
     Did you know that your psychological state directly affects your immune function? That chronic stress shrinks the hippocampus? That counting your blessings — literally writing down what you're grateful for — can measurably improve well-being? And that the way two people with similar symptoms end up with completely different clinical outcomes might come down not to biology alone but to psychology, culture, and social support?
@@ -157,7 +157,7 @@ Neither strategy is universally superior. Effective coping often involves flexib
 Martin Seligman and Christopher Peterson's Values in Action (VIA) classification identified 24 **signature strengths** — character strengths that people possess in varying degrees (creativity, curiosity, bravery, kindness, fairness, leadership, gratitude, humor, etc.). Using one's signature strengths — those felt as most authentic and energizing — in new ways each day is associated with increased well-being and engagement.
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" class="mascot-admonition-img">
     **Psy's AP Exam Tip:** Positive psychology is relatively recent (post-2000) and may not appear as heavily as the foundational frameworks on earlier AP exams, but questions about gratitude interventions, resilience, and well-being are increasingly common. Know the names Martin Seligman and the three-component SWB model (satisfaction, positive affect, low negative affect).
 
 ---
@@ -239,7 +239,7 @@ The emphasis on evidence-based practice is a response to the proliferation of un
 ## 14.7 Chapter Review
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Wonderful work completing Chapter 14!**
 
     You've now covered both sides of the health psychology coin — what damages health (stress, adversity, ACEs) and what builds it (resilience, gratitude, positive psychology) — plus the foundational frameworks for understanding psychological disorders. The biopsychosocial model, the DSM/ICD, and the four explanatory perspectives will be your constant companions through Chapters 15 and 16.

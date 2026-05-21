@@ -69,7 +69,7 @@ This chapter builds on concepts from:
 ## 3.1 Neural Transmission: The Electrical Side
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 3" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 3" class="mascot-admonition-img">
     **Welcome to Chapter 3 — where we learn the language neurons speak!**
 
     Every thought, memory, and emotion you have depends on billions of neurons firing electrochemical signals at each other dozens of times per second. In this chapter we are going to trace that process step by step — from the quiet resting state of an idle neuron, through the lightning-fast action potential, across the synapse, and all the way to the drugs and hormones that hijack or enhance those signals.
@@ -167,7 +167,7 @@ The interactive diagram below shows the GPCR/cAMP signaling pathway in detail. A
 <iframe src="../../sims/signal-transduction-pathway/main.html" height="590" width="100%" scrolling="no"></iframe>
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" class="mascot-admonition-img">
     **Keeping "pre" and "post" straight:**
 
     Think of the synapse like a conversation. The *presynaptic* neuron is the *speaker* — it releases neurotransmitters. The *postsynaptic* neuron is the *listener* — it receives them. Reuptake is the speaker "taking back their words." Receptor sites are the listener's "ears."
@@ -235,7 +235,7 @@ This interactive activity presents a card-matching game for all eight AP neurotr
 </details>
 
 !!! mascot-warning
-    <img src="../../img/mascot/warning.png" alt="Psy the Owl with a warning" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/warning.png" alt="Psy the Owl with a warning" class="mascot-admonition-img">
     **Common AP exam mistake: "Dopamine = happiness"**
 
     Students often write that dopamine *causes* happiness or pleasure. Research is more precise: dopamine drives *wanting and seeking* — anticipation and motivation — not the experience of pleasure itself. Pleasurable feelings involve multiple systems including opioid and serotonin pathways. On free-response questions, saying dopamine mediates "reward-seeking behavior" or "motivation" is more accurate and earns more credit than saying it "makes you happy."
@@ -344,7 +344,7 @@ This interactive simulator lets you "apply" different drugs to a virtual synapse
 </details>
 
 !!! mascot-encouraging
-    <img src="../../img/mascot/encouraging.png" alt="Psy the Owl encouraging you" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/encouraging.png" alt="Psy the Owl encouraging you" class="mascot-admonition-img">
     **This section gets personal for many students.**
 
     Psychoactive drugs, addiction, and withdrawal are topics that may feel close to home — perhaps because of your own experiences, or those of people you care about. That is completely normal. Psychology approaches these topics without judgment, as phenomena that can be understood scientifically. Understanding *why* addiction happens doesn't excuse it, but it does explain it — and explanation is the first step toward compassion and effective help.
@@ -405,7 +405,7 @@ This interactive chart shows melatonin levels, core body temperature, alertness,
 </details>
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **You made it through one of the most concept-dense chapters in AP Psychology — excellent work!**
 
     You now speak the language of the nervous system: from the quiet −70 mV resting potential all the way to the global effects of hormones and the neurobiological trap of addiction. That is a remarkable amount of territory.

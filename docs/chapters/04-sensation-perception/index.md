@@ -61,7 +61,7 @@ This chapter builds on concepts from:
 ## 4.1 Two Ways of Knowing: Sensation vs. Perception
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 4" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 4" class="mascot-admonition-img">
     **Welcome to Chapter 4 — where the physical world meets the mind!**
 
     Right now, as you read these words, your eyes are converting light energy into neural signals, your brain is recognizing letter shapes, retrieving word meanings, and fitting everything into the context of what you already know about psychology. None of that feels effortful. It seems like you're just *seeing*. But as this chapter will show you, perception is a breathtaking construction project happening below the level of awareness.
@@ -157,7 +157,7 @@ This interactive simulation lets you explore absolute threshold measurement and 
 </details>
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" class="mascot-admonition-img">
     **AP Exam shortcuts for psychophysics:**
 
     - **Absolute threshold** = detection 50% of the time (it's a midpoint, not a cliff)
@@ -211,7 +211,7 @@ This interactive infographic shows a clean, detailed cross-section of the human 
 </details>
 
 !!! mascot-warning
-    <img src="../../img/mascot/warning.png" alt="Psy the Owl warning" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/warning.png" alt="Psy the Owl warning" class="mascot-admonition-img">
     **Common misconception: The eye does NOT work like a camera passively recording reality.**
 
     Students often assume that vision is like a photograph — the eye captures an image and the brain just "looks" at it. In reality, the visual system *constructs* what you see. Your brain fills in the blind spot, stabilizes the image despite constant tiny eye movements (saccades), and uses top-down expectations to resolve ambiguity. The phrase "seeing is believing" has it backwards: believing shapes seeing. *Let's think about that!* 🦉
@@ -291,7 +291,7 @@ The **vestibular sense** detects head orientation, balance, and acceleration. It
 **Kinesthesia** is the sense of body position and movement, provided by **proprioceptors** — specialized receptors in muscles (**muscle spindles**), tendons (**Golgi tendon organs**), and joints. Kinesthesia allows you to type without watching your fingers, walk in total darkness, and coordinate complex movements without visual guidance. It is sometimes described as the "sense of where your body parts are." Kinesthesia and the vestibular sense together constitute what is informally called the **proprioceptive system** — the continuous, usually unconscious monitoring of the body's position in space.
 
 !!! mascot-encourage
-    <img src="../../img/mascot/encouraging.png" alt="Psy the Owl encouraging you" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/encouraging.png" alt="Psy the Owl encouraging you" class="mascot-admonition-img">
     That's a lot of sensory systems to absorb — you're doing great! Notice how each sense follows the same deep logic: specialized receptors transduce a specific form of energy, signals travel through the thalamus (except olfaction!) to cortical processing areas, and the brain integrates everything into a unified experience. If you can identify the transduction step, the receptor type, and the brain destination for each sense, you have the AP essentials locked in.
 
     *Let's think about that!* 🦉
@@ -421,7 +421,7 @@ This interactive MicroSim has three tabbed modes exploring depth and constancy p
 </details>
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" class="mascot-admonition-img">
     **Depth cue cheat sheet for the AP exam:**
 
     - **Binocular cues need two eyes:** retinal disparity (different views) and convergence (muscle strain)
@@ -462,7 +462,7 @@ This chapter has followed the path of sensory information from the moment physic
 The implications extend well beyond the laboratory. Clinical psychologists understand that trauma can alter pain processing via gate-control mechanisms. Educators know that schemas — the knowledge frameworks students bring to class — determine what new information they can understand and remember. Lawyers and forensic scientists grapple daily with the fallibility of perception-based eyewitness memory. Interface designers apply Gestalt principles to make displays intuitive. Understanding sensation and perception is not academic trivia — it is fundamental literacy for understanding why human beings see, hear, and experience the world the way they do.
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Outstanding work making it through Chapter 4!**
 
     You have just covered 26 concepts — from the physics of light and sound all the way to the psychology of attention and illusion. You now know:

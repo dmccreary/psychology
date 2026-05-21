@@ -46,7 +46,7 @@ This chapter builds on concepts from:
 ## 12.1 Group Dynamics
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 12" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 12" class="mascot-admonition-img">
     **Welcome to Chapter 12 — the darker side of social psychology!**
 
     Chapter 11 showed you how individual people influence each other. Now we zoom out: what happens when people act as part of a *group*? The answer, often, is that behavior becomes more extreme, more risky, more hostile, or more passive than any individual would be alone. Groups produce phenomena that their members would deny in isolation.
@@ -137,7 +137,7 @@ Milgram ran over 20 variations of his experiment to identify the conditions that
 Milgram's interpretation emphasized the **agentic state**: when people subordinate themselves to an authority figure, they shift from acting as autonomous moral agents to acting as instruments of someone else's will. In the agentic state, people experience themselves as responsible for *carrying out* orders, not for the outcomes of those orders.
 
 !!! mascot-thinking
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" class="mascot-admonition-img">
     **Psy's Note:** Milgram's study raised severe ethical concerns — participants were deceived, were exposed to genuine distress, and some showed lasting psychological effects. The study would not be permitted under modern ethical guidelines (APA, IRB). Yet it remains one of psychology's most important findings, because the situational determinism it revealed has been replicated in many forms and has profound implications for understanding atrocities, military behavior, organizational misconduct, and everyday compliance.
 
 ---
@@ -194,7 +194,7 @@ Additional mechanisms include **pluralistic ignorance** (each bystander looks at
 Practical implication: to maximize help in an emergency, specify a particular person ("You in the red jacket — call 911"), removing the anonymity that enables diffusion.
 
 !!! mascot-neutral
-    <img src="../../img/mascot/neutral.png" alt="Psy the Owl in neutral pose" style="float:right;width:90px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/neutral.png" alt="Psy the Owl in neutral pose" class="mascot-admonition-img">
     **Psy's Note:** The Kitty Genovese story was substantially inaccurate in its original reporting — fewer witnesses were present than reported, and some did call police. But the core experimental finding — that bystander presence reduces helping — has been robustly replicated in dozens of studies. The Genovese narrative should be treated as a cautionary tale about media framing, while the experimental evidence on the bystander effect remains solid.
 
 ### Altruism
@@ -230,7 +230,7 @@ The mere exposure effect has practical implications for advertising, political c
 ## 12.6 Chapter Review
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Phenomenal work completing Chapter 12!**
 
     These two social psychology chapters have given you a powerful and sometimes unsettling lens. You now understand why ordinary people sometimes do terrible things in groups (Milgram, deindividuation, groupthink), why prejudice persists despite good intentions (implicit attitudes, confirmation bias, the just-world phenomenon), and why people sometimes fail to help (bystander effect, diffusion of responsibility). But you also understand the conditions that can reverse these effects — social allies, identifiability, and direct responsibility.

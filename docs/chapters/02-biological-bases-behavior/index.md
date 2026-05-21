@@ -70,7 +70,7 @@ This chapter builds on concepts from:
 ## 2.1 Why Biology? Evolution, Heredity, and Behavior
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 2" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 2" class="mascot-admonition-img">
     **Welcome to Chapter 2 — where we get under the hood!**
 
     I'm Psy the Owl, and this chapter is one of my favorites because it explains *why* you are the way you are — at least from the neck up. We're going to trace behavior all the way from evolution and genes down to individual neurons, then up through the layered structures of the brain, and finally into the mysterious territory of sleep and dreams.
@@ -92,7 +92,7 @@ Three research designs help scientists estimate how much heredity contributes to
 **Adoption studies** provide a sharper test. When children are adopted at birth, their biological relatives share genes but not environment, while their adoptive relatives share environment but not genes. If adopted children resemble their biological parents more than their adoptive parents on a trait, that pattern points strongly to genetic influence. Classic adoption studies of intelligence (e.g., the Texas Adoption Project) and schizophrenia have revealed that genes play a meaningful but not deterministic role — environment matters considerably, too.
 
 !!! mascot-thinking
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" class="mascot-admonition-img">
     Here is a thought experiment: imagine identical twins raised apart from birth — one in a high-income, book-filled household and one in poverty with little educational stimulation. Would you expect their IQ scores to be identical? What does your answer reveal about the limits of heritability?
 
 The key insight from behavioral genetics is **heritability** — a statistic indicating the proportion of variation in a trait within a population that is attributable to genetic differences. Heritability is not destiny. A trait with 70% heritability still leaves 30% of its variation explained by environment. And heritability estimates apply to populations, not individuals: you cannot say "70% of *my* intelligence is genetic."
@@ -175,7 +175,7 @@ This MicroSim shows a fully labeled neuron diagram. Click any labeled structure 
 </details>
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" class="mascot-admonition-img">
     **AP Exam memory trick for neuron types:**
 
     - **S**ensory → signal goes **S**pinalward (toward CNS)
@@ -215,7 +215,7 @@ The **hippocampus** (Latin for "seahorse," which its shape resembles) is essenti
 The **amygdala** (Latin for "almond") is the brain's emotional processing hub, especially for fear and threat detection. It receives sensory information directly from the thalamus (a "fast path" that allows a fear response before conscious awareness) and from the cortex (a "slow path" providing more detailed appraisal). The amygdala tags memories with emotional significance — one reason that emotionally charged events are remembered more vividly than neutral ones.
 
 !!! mascot-encourage
-    <img src="../../img/mascot/encourage.png" alt="Psy the Owl encouraging" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/encourage.png" alt="Psy the Owl encouraging" class="mascot-admonition-img">
     You've just worked through a lot of anatomy — medulla, RAS, thalamus, hypothalamus, pituitary, hippocampus, amygdala. That's impressive! If you feel like the names are blurring together, that's completely normal. The interactive brain diagram coming up next is specifically designed to help you spatially anchor each structure. Keep going — the cortex section is where things get really interesting.
 
 #### Diagram: Subcortical Brain Structures
@@ -339,7 +339,7 @@ The table below compares the major neuroimaging techniques. Every term in the ta
 | **PET** | Metabolic activity (radiotracer) | Moderate | Low | Neurotransmitter mapping, dementia diagnosis |
 
 !!! mascot-warning
-    <img src="../../img/mascot/warning.png" alt="Psy the Owl warning" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/warning.png" alt="Psy the Owl warning" class="mascot-admonition-img">
     **Common AP Exam confusion: structure vs. function.**
     MRI and CT show *structure* — they are like a photograph of the brain. fMRI and PET show *function* — they reveal which regions are *active* during a task. EEG shows *electrical activity over time* — perfect for tracking sleep stages because it captures rapid moment-to-moment changes. Mixing these up on the free-response section is a very common error.
 
@@ -451,7 +451,7 @@ Adolescents face a biological double burden: the developing brain needs 8–10 h
 The common thread across most sleep disorders is disruption of the normal sleep architecture defined by NREM and REM cycling — illustrating how tightly regulated normal sleep is, and why that regulation matters for brain and body health.
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Outstanding work — you've just mapped the entire biological foundation of behavior!**
 
     Let's take stock of what you've accomplished in this chapter:

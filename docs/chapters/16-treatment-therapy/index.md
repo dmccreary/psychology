@@ -52,7 +52,7 @@ This chapter builds on concepts from:
 ## 16.1 The Therapy Landscape: CBT in Focus
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 16" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 16" class="mascot-admonition-img">
     **Welcome to Chapter 16 — the final chapter, and the one about how things get better!**
 
     Every disorder we've covered in the last two chapters has an associated treatment — often multiple treatments. This chapter maps the full treatment landscape: psychological therapies, biological treatments, and everything in between. You'll see the logical elegance of how the theoretical perspective on a disorder generates its treatment: if depression is caused by distorted cognitions, fix the cognitions. If OCD is maintained by avoidance, prevent avoidance. If schizophrenia involves excess dopamine, block dopamine receptors.
@@ -264,7 +264,7 @@ Applications include: chronic pain, headache, anxiety, hypertension, ADHD (neuro
 Consequences of stigma include: delayed help-seeking (people avoid diagnosis and treatment to avoid the label), reduced treatment adherence, social isolation, and compounded impairment. Anti-stigma campaigns emphasizing personal contact with people who have mental disorders (contact-based education) have the strongest evidence for reducing public stigma.
 
 !!! mascot-encourage
-    <img src="../../img/mascot/encouraging.png" alt="Psy the Owl encouraging" style="float:right;width:90px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/encouraging.png" alt="Psy the Owl encouraging" class="mascot-admonition-img">
     **Psy's Encouragement:** Understanding stigma is not just an academic exercise. You are part of the generation that will determine whether future people with mental health conditions are met with compassion or contempt. The evidence shows that knowing someone personally with a mental disorder — or disclosing one's own experience — is the single most effective anti-stigma intervention.
 
 ### Posttraumatic Growth
@@ -286,7 +286,7 @@ PTG is reported by many survivors of cancer, bereavement, combat, serious illnes
 ## 16.8 Chapter Review and Course Conclusion
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Congratulations — you've completed all 16 chapters of this psychology textbook!**
 
     You began in Chapter 1 with the scientific method and the question of what psychology even is. You traveled through the neuroscience of the brain, the biochemistry of neurotransmitters, the mysteries of perception and memory, the logic of classical and operant conditioning, the surprising power of social situations, the architecture of personality and emotion, the biology of stress, the classification of psychological disorders, and the landscape of treatment.

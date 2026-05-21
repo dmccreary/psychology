@@ -60,7 +60,7 @@ This chapter builds on concepts from:
 ## 13.1 Psychodynamic Personality Theory
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 13" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 13" class="mascot-admonition-img">
     **Welcome to Chapter 13 — the chapter about what makes you *you*!**
 
     Why do some people stay calm under pressure while others fall apart? Why do identical twins raised in the same family develop different personalities? What drives a person to climb a mountain, write a novel, or help a stranger? And why do we sometimes do things that seem to contradict our own stated values?
@@ -99,7 +99,7 @@ Conflict between these structures generates **anxiety**, which the ego manages t
 **Sublimation** is considered the most mature and adaptive defense mechanism — the impulse is expressed, but in a socially valuable form.
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" style="float:left;width:90px;margin:0 1em 0.5em 0;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl giving a tip" class="mascot-admonition-img">
     **Psy's AP Exam Tip:** Know all six defense mechanisms (repression, denial, projection, rationalization, displacement, sublimation) by name and be able to identify them in scenario descriptions. The exam frequently presents a vignette and asks which defense mechanism is illustrated.
 
 ---
@@ -131,7 +131,7 @@ Abraham Maslow proposed that human needs are arranged in a hierarchy, with lower
 **Self-actualization** is the highest level — the ongoing process of fulfilling one's unique potential, pursuing growth, creativity, and authentic meaning. Maslow believed most people never consistently reach self-actualization because lower-level needs demand attention. He studied exemplary individuals (Abraham Lincoln, Albert Einstein) to identify self-actualizing characteristics: openness, spontaneity, comfort with uncertainty, deep relationships, peak experiences.
 
 !!! mascot-thinking
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:right;width:90px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" class="mascot-admonition-img">
     **Psy's Note:** Maslow's hierarchy is widely taught but has limited empirical support for the strict sequential ordering. Cross-cultural research shows that esteem and belonging needs can be motivationally active even when physiological needs are unmet. The hierarchy is best understood as a useful heuristic about human needs rather than a rigorously validated empirical model.
 
 ---
@@ -348,7 +348,7 @@ Eating disorders (anorexia nervosa, bulimia nervosa, binge-eating disorder) invo
 ## 13.7 Chapter Review
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" class="mascot-admonition-img">
     **Tremendous work completing Chapter 13 — psychology's longest chapter!**
 
     You've just worked through four complete personality frameworks, seven defense mechanisms, Maslow's hierarchy, the Big Five, three motivation theories, the Yerkes-Dodson law, three emotion theories, Fredrickson's broaden-and-build, and the biology of hunger. That's a lot — and every single one of these concepts has appeared on AP exams.

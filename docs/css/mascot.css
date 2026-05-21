@@ -129,13 +129,12 @@
   display: none;
 }
 
-/* ---- Mascot image floated LEFT of admonition body text ---- */
+/* ---- Mascot image: always floated LEFT, text flows to the right ---- */
 .mascot-admonition-img {
   float: left;
-  width: var(--mascot-size);
+  width: var(--mascot-size);   /* 90px — set in :root above */
   height: var(--mascot-size);
-  /* margin: top right bottom left */
-  margin: 0 .5em 0 0;
+  margin: 0 0.75em 0.25em 0;  /* top right bottom left — gap between img and text */
   object-fit: contain;
-  pointer-events: none;  /* prevent glightbox zoom on mascot icons */
+  pointer-events: none;        /* prevent glightbox zoom on mascot icons */
 }

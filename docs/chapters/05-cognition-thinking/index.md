@@ -57,7 +57,7 @@ This chapter builds on concepts from:
 ## 5.1 Mental Representations: How the Mind Organizes Knowledge
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 5" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl welcoming you to Chapter 5" class="mascot-admonition-img">
     **Welcome to Chapter 5 — where we explore the machinery of thought!**
 
     You think thousands of thoughts every day without pausing to wonder *how* you think. You recognize a chair even when it looks nothing like the last chair you sat in. You solve problems, sometimes brilliantly and sometimes in embarrassingly predictable ways. You judge whether an event is probable and form opinions about people in milliseconds — and you're systematically wrong in fascinating, repeatable patterns.
@@ -167,7 +167,7 @@ This interactive simulation presents classic problem-solving challenges that dem
 </details>
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" class="mascot-admonition-img">
     **AP Exam distinctions to remember:**
 
     - **Algorithm** = guaranteed correct, but slow (exhaustive search)
@@ -238,7 +238,7 @@ The table below summarizes the five key biases, their underlying mechanisms, and
 | Sunk-Cost Fallacy | Loss aversion; reluctance to admit past losses | Staying in a failing venture because of prior investment |
 
 !!! mascot-warning
-    <img src="../../img/mascot/warning.png" alt="Psy the Owl warning" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/warning.png" alt="Psy the Owl warning" class="mascot-admonition-img">
     **The conjunction fallacy is a common AP trap.**
 
     The Linda Problem is famous because most people say it is more likely that Linda is "a feminist bank teller" than simply "a bank teller." But logically, any specific conjunction (A and B) must be less probable than either A alone or B alone. This is called the **conjunction fallacy**, and it is driven by the representativeness heuristic — the "feminist bank teller" description *matches* Linda's profile better, so it feels more probable. When you see an AP question with detailed descriptions and probability comparisons, check whether you're being set up for the conjunction fallacy. *Let's think about that!* 🦉
@@ -326,7 +326,7 @@ This interactive MicroSim displays the three major theories of intelligence side
 </details>
 
 !!! mascot-encouraging
-    <img src="../../img/mascot/encouraging.png" alt="Psy the Owl encouraging you" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/encouraging.png" alt="Psy the Owl encouraging you" class="mascot-admonition-img">
     **You are halfway through one of the richest chapters in AP Psychology — great work!**
 
     Intelligence is a topic that touches everyone personally. Here is something worth sitting with: the Flynn Effect tells us that intelligence — as measured by IQ tests — rose by a full 30 points over the 20th century. That means "intelligence" is far more environmentally shaped than most people assume. Whatever your IQ score might be, it reflects the circumstances of your development as much as any fixed capacity.
@@ -397,7 +397,7 @@ The following table summarizes the key measurement concepts for quick review.
 | Aptitude Test | Predicts future performance or potential | What is the student likely to be capable of? | SAT (original design), career aptitude batteries |
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a tip" class="mascot-admonition-img">
     **Reliability vs. Validity — the dartboard trick:**
 
     Imagine throwing darts at a board. **Reliable but not valid** = all your darts cluster together but in the wrong part of the board (consistent but off-target). **Valid but not reliable** = impossible — if your throws are all over the place, they can't consistently hit the right spot. **Both reliable and valid** = darts cluster tightly around the bullseye.
@@ -425,7 +425,7 @@ The table below maps all 22 chapter concepts to the five major sections for a fi
 | 5.5 Measurement | Standardized Testing, Test Validity, Test Reliability, Achievement vs. Aptitude Tests |
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating chapter completion" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating chapter completion" class="mascot-admonition-img">
     **Outstanding work — you have completed Chapter 5!**
 
     You now understand how the mind builds its internal model of the world (concepts, prototypes, schemas), how it attacks problems (algorithms, heuristics, executive functions, creativity), how it predictably goes wrong in judgment (representativeness, availability, framing, gambler's fallacy, sunk-cost), how intelligence is theorized and measured (g, multiple intelligences, IQ, Flynn Effect), and how we evaluate the tests that measure it (reliability, validity, achievement vs. aptitude).
