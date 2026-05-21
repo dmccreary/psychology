@@ -64,7 +64,7 @@ coursework is required.
 ## 1.1 What Is Psychology?
 
 !!! mascot-welcome
-    <img src="../../img/mascot/welcome.png" alt="Psy the Owl waving" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/welcome.png" alt="Psy the Owl waving" style="float:left;width:120px;margin:0 0 1em 1em;">
     **Meet Psy the Owl — your guide through AP Psychology!**
 
     Hi! I'm **Psy**, a wide-eyed barn owl who has been studying the mind for longer than I'll admit. My superpower is slowing down and *really* looking at things before drawing conclusions — which, as you'll soon learn, is exactly what psychology requires.
@@ -93,7 +93,7 @@ Psychology has not always looked so scientific. In its early decades, researcher
 The **Scientific Method in Psychology** is a cycle of observation, hypothesis formation, data collection, analysis, and revision. It is not a rigid checklist but a way of thinking that keeps personal biases from distorting our conclusions. Psychologists begin by noticing a phenomenon — say, that students who listen to classical music before an exam score slightly higher — and then ask whether that pattern is real, repeatable, and explainable.
 
 !!! mascot-thinking
-    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/thinking.png" alt="Psy the Owl thinking" style="float:left;width:100px;margin:0 0 1em 1em;">
     Before reading further: think of one "common-sense" belief about human behavior you have held for years. Can you think of a way to test it? Would you need to observe people, manipulate a variable, or ask them questions? Holding that question in mind will make the research-design section feel immediately relevant.
 
 A key step in the scientific method is writing an **operational definition** — a precise, measurable description of how a variable will be observed or manipulated. For example, "academic performance" is vague; "final exam score out of 100, recorded from official transcripts" is an operational definition. Without operational definitions, two researchers studying the same concept might measure completely different things, making it impossible to compare or replicate findings. **Replicability and generalizability** are the ultimate tests of a scientific finding: can other researchers reproduce the result (replicability), and does it apply beyond the original sample to the broader population (generalizability)?
@@ -132,7 +132,7 @@ The comparison between these groups is what allows cause-and-effect conclusions.
 **Random assignment** is the most powerful tool for controlling confounding variables. When participants are randomly assigned to the experimental or control group, the groups are likely to be equivalent on every characteristic — age, personality, prior knowledge, health — before the study begins. This equivalence means any post-treatment difference is attributable to the IV, not to pre-existing differences between groups. (Note: random assignment is *not* the same as random *sampling*, which concerns how you recruit participants into the study in the first place.)
 
 !!! mascot-warning
-    <img src="../../img/mascot/warning.png" alt="Psy the Owl warning" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/warning.png" alt="Psy the Owl warning" style="float:left;width:100px;margin:0 0 1em 1em;">
     **AP Exam Trap: Correlation ≠ Causation, and Selection ≠ Assignment.**
     Many free-response questions ask whether a study "allows a cause-and-effect conclusion." The answer is **yes only if** participants were *randomly assigned* to conditions. If researchers let participants choose their own group, or studied pre-existing groups (e.g., smokers vs. non-smokers), the study is non-experimental and cannot establish causation — no matter how strong the relationship looks.
 
@@ -182,7 +182,7 @@ The following table summarizes the four major non-experimental approaches, their
 **Correlational research** measures the strength and direction of a relationship between two variables using a statistic called the **correlation coefficient (r)**, which ranges from −1.0 to +1.0. A value near +1.0 indicates a strong positive relationship; near −1.0 indicates a strong negative relationship; near 0.0 indicates no linear relationship. It is critical to remember that a correlation, no matter how strong, never by itself proves that one variable *causes* the other — a third variable (a confound) may be driving both.
 
 !!! mascot-tip
-    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a lightbulb" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/tip.png" alt="Psy the Owl with a lightbulb" style="float:left;width:100px;margin:0 0 1em 1em;">
     **AP Tip — Memorize the Methods Table.**
     On the AP exam, multiple-choice questions often describe a study and ask you to name the method used. Practice identifying the method from the key words: "manipulated" → experiment; "observed in natural setting" → naturalistic observation; "asked participants" → survey; "studied one person in depth" → case study; "measured the relationship between two variables without manipulation" → correlational. Keep the table above handy while doing practice problems.
 
@@ -231,7 +231,7 @@ Once data are collected, researchers ask: is this result real, or could it have 
 Statistical significance is not the same as practical importance. A study with thousands of participants might find a statistically significant but trivially small difference. Conversely, a study with few participants might find a large, practically meaningful difference that does not reach statistical significance simply because the sample was too small. Always ask both: *Is it statistically significant?* and *Is the effect size large enough to matter?*
 
 !!! mascot-encourage
-    <img src="../../img/mascot/encourage.png" alt="Psy the Owl encouraging" style="float:right;width:100px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/encourage.png" alt="Psy the Owl encouraging" style="float:left;width:100px;margin:0 0 1em 1em;">
     Statistics can feel like a detour from "real" psychology, but it is the engine that makes everything else trustworthy. Every time you read that "studies show" something, someone ran the numbers you are learning right now. Once you can read a p-value and explain what a standard deviation means, you will never again be easily fooled by a misleading headline. You're building genuine scientific literacy — that's huge.
 
 ---
@@ -406,7 +406,7 @@ The **nature vs. nurture** debate illustrates this connection perfectly. Early p
 As you move through AP Psychology, return to this chapter whenever you encounter a new research finding. Ask: What method was used? Was there random assignment? Could confounds explain the result? How large was the effect? Is it statistically significant? Was the study ethically conducted? These questions are not obstacles — they are the tools that separate genuine psychological science from wishful thinking.
 
 !!! mascot-celebration
-    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:right;width:120px;margin:0 0 1em 1em;">
+    <img src="../../img/mascot/celebration.png" alt="Psy the Owl celebrating" style="float:left;width:120px;margin:0 0 1em 1em;">
     **You just laid the foundation for everything that follows — fantastic work!**
 
     In this chapter you covered all 30 foundational concepts: psychology as a science, the full research-methods toolkit from case studies to randomized experiments, the statistical tools that make sense of data, the APA ethical principles that protect participants, and the biological architecture of the nervous system — from individual neurons all the way to the limbic system.
