@@ -1,0 +1,388 @@
+ConceptID,ConceptLabel,Dependencies,TaxonomyID
+1,Psychology as a Science,,MISC
+2,Scientific Method in Psychology,1,MISC
+3,Nature vs. Nurture,1,MISC
+4,Heredity and Behavior,3,MISC
+5,Twin Studies,4,MISC
+6,Family Studies,4,MISC
+7,Adoption Studies,4,MISC
+8,Evolutionary Perspective,3|4,MISC
+9,Natural Selection,8,MISC
+10,Central Nervous System,1,MISC
+11,Peripheral Nervous System,10,MISC
+12,Autonomic Nervous System,11,MISC
+13,Sympathetic Nervous System,12,MISC
+14,Parasympathetic Nervous System,12,MISC
+15,Somatic Nervous System,11,MISC
+16,Spinal Cord,10,MISC
+17,Reflex Arc,16|20|21|22,MISC
+18,Neuron Structure,10,MISC
+19,Glial Cells,18,MISC
+20,Sensory Neurons,18,MISC
+21,Motor Neurons,18,MISC
+22,Interneurons,18,MISC
+23,Neural Transmission,18|24,MISC
+24,All-or-None Principle,18,MISC
+25,Resting Potential,18|23,MISC
+26,Depolarization,25,MISC
+27,Action Potential,26,MISC
+28,Refractory Period,27,MISC
+29,Reuptake,27|31,MISC
+30,Synaptic Threshold,24|25,MISC
+31,Neurotransmitters,23|27,MISC
+32,Dopamine,31,MISC
+33,Serotonin,31,MISC
+34,Norepinephrine,31,MISC
+35,Glutamate,31,MISC
+36,GABA,31,MISC
+37,Endorphins,31,MISC
+38,Acetylcholine,31,MISC
+39,Substance P,31,MISC
+40,Hormones and Behavior,10|31,MISC
+41,Adrenaline (Epinephrine),40,MISC
+42,Leptin,40,MISC
+43,Ghrelin,40,MISC
+44,Melatonin,40,MISC
+45,Oxytocin,40,MISC
+46,Psychoactive Drugs,31,MISC
+47,Agonists,46|31,MISC
+48,Antagonists,46|31,MISC
+49,Reuptake Inhibitors,46|29,MISC
+50,Stimulants,46,MISC
+51,Depressants,46,MISC
+52,Hallucinogens,46,MISC
+53,Opioids,46,MISC
+54,Drug Tolerance,46,MISC
+55,Addiction,54,MISC
+56,Withdrawal Symptoms,55,MISC
+57,Brain Stem,10,MISC
+58,Medulla Oblongata,57,MISC
+59,Reticular Activating System,57,MISC
+60,Cerebellum,10,MISC
+61,Limbic System,10,MISC
+62,Thalamus,61,MISC
+63,Hypothalamus,61,MISC
+64,Hippocampus,61,MISC
+65,Amygdala,61,MISC
+66,Pituitary Gland,63,MISC
+67,Corpus Callosum,10,MISC
+68,Cerebral Cortex,10,MISC
+69,Frontal Lobe,68,MISC
+70,Parietal Lobe,68,MISC
+71,Temporal Lobe,68,MISC
+72,Occipital Lobe,68,MISC
+73,Hemispheric Lateralization,68|67,MISC
+74,Split-Brain Research,73,MISC
+75,Brain Imaging Methods,10|2,MISC
+76,Sleep Stages,10,MISC
+77,REM Sleep,76,MISC
+78,Non-REM Sleep,76,MISC
+79,Circadian Rhythms,44|76,MISC
+80,Sleep Deprivation,76,MISC
+81,Sleep Disorders,76|80,MISC
+82,Dreams and Their Functions,77,MISC
+83,Absolute Threshold,1|2,MISC
+84,Difference Threshold,83,MISC
+85,Weber's Law,84,MISC
+86,Signal Detection Theory,83|2,MISC
+87,Sensory Adaptation,83,MISC
+88,Vision and the Eye,83,MISC
+89,Audition and the Ear,83,MISC
+90,Olfaction,83,MISC
+91,Gustation,83,MISC
+92,Somatosensation,83,MISC
+93,Gate-Control Theory of Pain,92,MISC
+94,Vestibular Sense,83,MISC
+95,Kinesthesia,83,MISC
+96,Bottom-Up Processing,83,MISC
+97,Top-Down Processing,99|96,MISC
+98,Perceptual Sets,97|99,MISC
+99,Schemas,1,MISC
+100,Gestalt Principles,96,MISC
+101,Figure and Ground,100,MISC
+102,Selective Attention,96|97,MISC
+103,Cocktail Party Effect,102,MISC
+104,Change Blindness,102,MISC
+105,Binocular Depth Cues,88|96,MISC
+106,Monocular Depth Cues,88|96,MISC
+107,Perceptual Constancy,96|97,MISC
+108,Apparent Movement,96,MISC
+109,Concepts and Prototypes,1,MISC
+110,Assimilation and Accommodation,99|109,MISC
+111,Algorithms,1,MISC
+112,Heuristics,111,MISC
+113,Representativeness Heuristic,112,MISC
+114,Availability Heuristic,112,MISC
+115,Framing Effect,112|117,MISC
+116,Mental Set,112,MISC
+117,Cognitive Biases,112,MISC
+118,Gambler's Fallacy,117,MISC
+119,Sunk-Cost Fallacy,117,MISC
+120,Executive Functions,69|109,MISC
+121,Creativity and Divergent Thinking,120|109,MISC
+122,Functional Fixedness,116|121,MISC
+123,Explicit Memory,10|1,MISC
+124,Implicit Memory,10|1,MISC
+125,Episodic Memory,123,MISC
+126,Semantic Memory,123,MISC
+127,Procedural Memory,124,MISC
+128,Prospective Memory,123,MISC
+129,Long-Term Potentiation,64|23,MISC
+130,Working Memory Model,133,MISC
+131,Multi-Store Memory Model,1|83,MISC
+132,Sensory Memory,83|131,MISC
+133,Short-Term Memory,132,MISC
+134,Long-Term Memory,133,MISC
+135,Levels of Processing,131,MISC
+136,Encoding Strategies,131|135,MISC
+137,Mnemonic Devices,136,MISC
+138,Chunking,136,MISC
+139,Spacing Effect,136,MISC
+140,Serial Position Effect,131|136,MISC
+141,Primacy Effect,140,MISC
+142,Recency Effect,140,MISC
+143,Memory Storage,134,MISC
+144,Maintenance Rehearsal,133|143,MISC
+145,Elaborative Rehearsal,135|143,MISC
+146,Retrieval Cues,134,MISC
+147,Recall vs. Recognition,146,MISC
+148,Context-Dependent Memory,146|147,MISC
+149,State-Dependent Memory,146|147,MISC
+150,Forgetting Curve,134|2,MISC
+151,Proactive Interference,150,MISC
+152,Retroactive Interference,150,MISC
+153,Tip-of-the-Tongue Phenomenon,146|150,MISC
+154,Repression,150,MISC
+155,Misinformation Effect,150|97,MISC
+156,Constructive Memory,155|99,MISC
+157,Anterograde Amnesia,64|134,MISC
+158,Retrograde Amnesia,64|134,MISC
+159,Intelligence and the g Factor,1|2,MISC
+160,Multiple Intelligences,159,MISC
+161,IQ and Mental Age,159,MISC
+162,Standardized Testing,161|2,MISC
+163,Test Validity,162,MISC
+164,Test Reliability,162,MISC
+165,Flynn Effect,161|3,MISC
+166,Stereotype Threat,162|239,MISC
+167,Fixed vs. Growth Mindset,159|227,MISC
+168,Achievement vs. Aptitude Tests,162,MISC
+169,Developmental Psychology Themes,1|3,MISC
+170,Cross-Sectional Research Design,169|2,MISC
+171,Longitudinal Research Design,169|2,MISC
+172,Prenatal Development,169,MISC
+173,Teratogens,172,MISC
+174,Infant Physical Development,172|169,MISC
+175,Adolescent Development,174|169,MISC
+176,Adult and Aging Development,175|169,MISC
+177,Piaget's Cognitive Stages,169,MISC
+178,Sensorimotor Stage,177,MISC
+179,Preoperational Stage,178,MISC
+180,Concrete Operational Stage,179,MISC
+181,Formal Operational Stage,180,MISC
+182,Object Permanence,178,MISC
+183,Conservation,179,MISC
+184,Egocentrism,179,MISC
+185,Theory of Mind,184|179,MISC
+186,Vygotsky's Sociocultural Theory,177,MISC
+187,Zone of Proximal Development,186,MISC
+188,Scaffolding,187,MISC
+189,Fluid vs. Crystallized Intelligence,159|176,MISC
+190,Language Acquisition,169,MISC
+191,Critical Period for Language,190|175,MISC
+192,Linguistic Relativity,190,MISC
+193,Babbling and Early Speech,190,MISC
+194,Attachment Theory,169|174,MISC
+195,Secure Attachment,194,MISC
+196,Insecure Attachment,194,MISC
+197,Temperament,169|3,MISC
+198,Parenting Styles,194|197,MISC
+199,Erikson's Psychosocial Stages,169,MISC
+200,Identity vs. Role Confusion,199|175,MISC
+201,Kohlberg's Moral Development,169|180,MISC
+202,Gilligan's Ethics of Care,201,MISC
+203,Social Clock,199|176,MISC
+204,Kübler-Ross Grief Stages,169|176,MISC
+205,Classical Conditioning,1|2,MISC
+206,Unconditioned Stimulus,205,MISC
+207,Conditioned Stimulus,206,MISC
+208,Conditioned Response,207,MISC
+209,Acquisition,205|207,MISC
+210,Extinction,209,MISC
+211,Spontaneous Recovery,210,MISC
+212,Stimulus Generalization,209,MISC
+213,Stimulus Discrimination,212,MISC
+214,Conditioned Emotional Response,208|65,MISC
+215,Taste Aversion,205|90,MISC
+216,Operant Conditioning,205|2,MISC
+217,Positive Reinforcement,216,MISC
+218,Negative Reinforcement,216,MISC
+219,Positive Punishment,216,MISC
+220,Negative Punishment,216,MISC
+221,Schedules of Reinforcement,217|218,MISC
+222,Shaping Behavior,216|217,MISC
+223,Learned Helplessness,216|219,MISC
+224,Social Learning Theory,205|216,MISC
+225,Observational Learning,224,MISC
+226,Bobo Doll Study,225|2,MISC
+227,Self-Efficacy,224|225,MISC
+228,Cognitive Maps,224,MISC
+229,Latent Learning,228,MISC
+230,Neuroplasticity,10|205,MISC
+231,Attribution Theory,1|99,MISC
+232,Fundamental Attribution Error,231,MISC
+233,Actor-Observer Bias,231|232,MISC
+234,Self-Serving Bias,231,MISC
+235,Locus of Control,231|227,MISC
+236,Mere Exposure Effect,231|97,MISC
+237,Self-Fulfilling Prophecy,236|231,MISC
+238,Social Comparison,231,MISC
+239,Stereotypes,99|238,MISC
+240,Prejudice and Discrimination,239,MISC
+241,Implicit Attitudes,239|240,MISC
+242,Just-World Phenomenon,241|231,MISC
+243,In-Group Bias,240|239,MISC
+244,Out-Group Homogeneity Bias,239|243,MISC
+245,Cognitive Dissonance,117|231,MISC
+246,Belief Perseverance,245|117,MISC
+247,Confirmation Bias,246|117,MISC
+248,Social Norms,1,MISC
+249,Social Influence Theory,248,MISC
+250,Persuasion,249,MISC
+251,Elaboration Likelihood Model,250,MISC
+252,Conformity,248|249,MISC
+253,Obedience,248|249,MISC
+254,Milgram Obedience Study,253|2|381,MISC
+255,Asch Conformity Study,252|2,MISC
+256,Foot-in-the-Door Technique,250,MISC
+257,Door-in-the-Face Technique,250,MISC
+258,Group Polarization,252|248,MISC
+259,Groupthink,258,MISC
+260,Diffusion of Responsibility,248|252,MISC
+261,Social Loafing,260,MISC
+262,Deindividuation,252|248,MISC
+263,Social Facilitation,248,MISC
+264,Bystander Effect,260|263,MISC
+265,Altruism,248|264,MISC
+266,Industrial-Organizational Psychology,248|231,MISC
+267,Psychodynamic Personality Theory,1,MISC
+268,Ego Defense Mechanisms,267,MISC
+269,Denial,268,MISC
+270,Projection,268,MISC
+271,Rationalization,268,MISC
+272,Repression (Personality),268,MISC
+273,Displacement,268,MISC
+274,Sublimation,268,MISC
+275,Projective Tests,267|162,MISC
+276,Humanistic Personality Theory,267,MISC
+277,Unconditional Positive Regard,276,MISC
+278,Self-Actualization,276|279,MISC
+279,Self-Concept,276|231,MISC
+280,Social-Cognitive Theory,224|279,MISC
+281,Reciprocal Determinism,280|227,MISC
+282,Big Five Personality Traits,1|164,MISC
+283,Personality Inventories,282|162,MISC
+284,Drive-Reduction Theory,1,MISC
+285,Arousal Theory,284,MISC
+286,Yerkes-Dodson Law,285,MISC
+287,Self-Determination Theory,284|280,MISC
+288,Intrinsic vs. Extrinsic Motivation,287,MISC
+289,Incentive Theory,284|217,MISC
+290,Motivational Conflicts,284,MISC
+291,Sensation Seeking,285,MISC
+292,Hunger and Eating Behavior,42|43|63|284,MISC
+293,Theories of Emotion,1|31,MISC
+294,Facial-Feedback Hypothesis,293,MISC
+295,Broaden-and-Build Theory,293,MISC
+296,Universal Basic Emotions,293,MISC
+297,Display Rules for Emotion,293|248,MISC
+298,Health Psychology,1|2,MISC
+299,Stress and Behavior,298|13,MISC
+300,Eustress vs. Distress,299,MISC
+301,Adverse Childhood Experiences,299|172,MISC
+302,General Adaptation Syndrome,299|13|14,MISC
+303,Fight-Flight-Freeze Response,13|41|65,MISC
+304,Tend-and-Befriend Response,302|45,MISC
+305,Problem-Focused Coping,299|300,MISC
+306,Emotion-Focused Coping,299|293,MISC
+307,Positive Psychology,298|1,MISC
+308,Well-Being and Resilience,307,MISC
+309,Gratitude and Subjective Well-Being,308|307,MISC
+310,Signature Strengths,307|308,MISC
+311,Posttraumatic Growth,307|343,MISC
+312,Defining Psychological Disorders,1|2,MISC
+313,DSM Classification System,312,MISC
+314,ICD Classification System,312,MISC
+315,Biopsychosocial Model,312|3,MISC
+316,Diathesis-Stress Model,315|4|299,MISC
+317,Stigma in Mental Health,312|240,MISC
+318,Behavioral Perspective on Disorders,205|312,MISC
+319,Cognitive Perspective on Disorders,117|312,MISC
+320,Biological Perspective on Disorders,10|312,MISC
+321,Sociocultural Perspective on Disorders,248|312,MISC
+322,ADHD,312|313|172,MISC
+323,Autism Spectrum Disorder,312|313|172,MISC
+324,Schizophrenia,312|313,MISC
+325,Positive Symptoms of Schizophrenia,324,MISC
+326,Negative Symptoms of Schizophrenia,324,MISC
+327,Dopamine Hypothesis,32|324,MISC
+328,Major Depressive Disorder,312|313|33,MISC
+329,Persistent Depressive Disorder,328,MISC
+330,Bipolar I Disorder,312|313|328,MISC
+331,Bipolar II Disorder,330,MISC
+332,Mania,330,MISC
+333,Specific Phobia,312|313|205,MISC
+334,Agoraphobia,312|313,MISC
+335,Panic Disorder,312|313|303,MISC
+336,Social Anxiety Disorder,312|313|239,MISC
+337,Generalized Anxiety Disorder,312|313|299,MISC
+338,Culture-Bound Anxiety Disorders,335|336|321,MISC
+339,Obsessive-Compulsive Disorder,312|313,MISC
+340,Hoarding Disorder,339,MISC
+341,Dissociative Amnesia,312|313|157,MISC
+342,Dissociative Identity Disorder,341,MISC
+343,PTSD,312|313|301,MISC
+344,Feeding and Eating Disorders,312|313,MISC
+345,Anorexia Nervosa,344|292,MISC
+346,Bulimia Nervosa,344|292,MISC
+347,Personality Disorder Clusters,312|313,MISC
+348,Antisocial Personality Disorder,347,MISC
+349,Borderline Personality Disorder,347,MISC
+350,Evidence-Based Psychotherapy,312|2,MISC
+351,Psychodynamic Therapy,267|350,MISC
+352,Cognitive Therapy,319|350,MISC
+353,Behavioral Therapy,205|350,MISC
+354,Cognitive-Behavioral Therapy,352|353,MISC
+355,Humanistic (Person-Centered) Therapy,276|350,MISC
+356,Group Therapy,350,MISC
+357,Systematic Desensitization,353|205|333,MISC
+358,Biofeedback,353|302,MISC
+359,Hypnosis in Treatment,350,MISC
+360,Psychotropic Medications,31|350,MISC
+361,Antidepressants,360|328|33,MISC
+362,Antianxiety Medications,360|337|36,MISC
+363,Antipsychotic Medications,360|324|32,MISC
+364,Electroconvulsive Therapy,360|328,MISC
+365,Transcranial Magnetic Stimulation,360|75,MISC
+366,Experimental Research Design,2,MISC
+367,Independent and Dependent Variables,366,MISC
+368,Control and Experimental Groups,366|367,MISC
+369,Random Assignment,368,MISC
+370,Operational Definitions,366|2,MISC
+371,Confounding Variables,368|369,MISC
+372,Non-Experimental Methods,2,MISC
+373,Case Studies,372,MISC
+374,Correlational Research,372|2,MISC
+375,Naturalistic Observation,372,MISC
+376,Surveys and Sampling,372,MISC
+377,Measures of Central Tendency,2,MISC
+378,Standard Deviation,377,MISC
+379,Percentile Rank,377,MISC
+380,Statistical Significance,377|378,MISC
+381,APA Ethical Guidelines,2|1,MISC
+382,Informed Consent,381,MISC
+383,Debriefing in Research,381|382,MISC
+384,Positive and Negative Reinforcement Contrast,217|218,MISC
+385,Gender and Sexual Orientation,169|3,MISC
+386,Ethnocentrism,240|248|321,MISC
+387,Replicability and Generalizability,380|2,MISC

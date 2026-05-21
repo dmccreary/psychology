@@ -1,0 +1,1694 @@
+[
+  {
+    "num": 1,
+    "title": "Foundations of Psychology and Research Methods",
+    "slug": "foundations-research-methods",
+    "summary": "Introduction to psychology as a science, the scientific method, major research designs, ethical guidelines in research, statistical reasoning, and foundational genetic concepts including nature vs. nurture, heredity, twin and adoption studies, and evolutionary perspectives on behavior.",
+    "concepts": [
+      {
+        "id": 1,
+        "label": "Psychology as a Science"
+      },
+      {
+        "id": 2,
+        "label": "Scientific Method in Psychology"
+      },
+      {
+        "id": 366,
+        "label": "Experimental Research Design"
+      },
+      {
+        "id": 372,
+        "label": "Non-Experimental Methods"
+      },
+      {
+        "id": 377,
+        "label": "Measures of Central Tendency"
+      },
+      {
+        "id": 381,
+        "label": "APA Ethical Guidelines"
+      },
+      {
+        "id": 367,
+        "label": "Independent and Dependent Variables"
+      },
+      {
+        "id": 370,
+        "label": "Operational Definitions"
+      },
+      {
+        "id": 373,
+        "label": "Case Studies"
+      },
+      {
+        "id": 374,
+        "label": "Correlational Research"
+      },
+      {
+        "id": 375,
+        "label": "Naturalistic Observation"
+      },
+      {
+        "id": 376,
+        "label": "Surveys and Sampling"
+      },
+      {
+        "id": 378,
+        "label": "Standard Deviation"
+      },
+      {
+        "id": 379,
+        "label": "Percentile Rank"
+      },
+      {
+        "id": 382,
+        "label": "Informed Consent"
+      },
+      {
+        "id": 368,
+        "label": "Control and Experimental Groups"
+      },
+      {
+        "id": 380,
+        "label": "Statistical Significance"
+      },
+      {
+        "id": 383,
+        "label": "Debriefing in Research"
+      },
+      {
+        "id": 369,
+        "label": "Random Assignment"
+      },
+      {
+        "id": 387,
+        "label": "Replicability and Generalizability"
+      },
+      {
+        "id": 371,
+        "label": "Confounding Variables"
+      },
+      {
+        "id": 3,
+        "label": "Nature vs. Nurture"
+      },
+      {
+        "id": 10,
+        "label": "Central Nervous System"
+      },
+      {
+        "id": 4,
+        "label": "Heredity and Behavior"
+      },
+      {
+        "id": 11,
+        "label": "Peripheral Nervous System"
+      },
+      {
+        "id": 16,
+        "label": "Spinal Cord"
+      },
+      {
+        "id": 18,
+        "label": "Neuron Structure"
+      },
+      {
+        "id": 57,
+        "label": "Brain Stem"
+      },
+      {
+        "id": 60,
+        "label": "Cerebellum"
+      },
+      {
+        "id": 61,
+        "label": "Limbic System"
+      }
+    ],
+    "count": 30
+  },
+  {
+    "num": 2,
+    "title": "Biological Bases of Behavior: Neurons and the Brain",
+    "slug": "biological-bases-behavior",
+    "summary": "Structure and function of neurons, glial cells, and neural communication; the organization of the nervous system from spinal cord to cerebral cortex; major brain structures and their behavioral functions; hemispheric specialization; neuroimaging techniques; states of consciousness and sleep.",
+    "concepts": [
+      {
+        "id": 67,
+        "label": "Corpus Callosum"
+      },
+      {
+        "id": 68,
+        "label": "Cerebral Cortex"
+      },
+      {
+        "id": 75,
+        "label": "Brain Imaging Methods"
+      },
+      {
+        "id": 76,
+        "label": "Sleep Stages"
+      },
+      {
+        "id": 5,
+        "label": "Twin Studies"
+      },
+      {
+        "id": 6,
+        "label": "Family Studies"
+      },
+      {
+        "id": 7,
+        "label": "Adoption Studies"
+      },
+      {
+        "id": 8,
+        "label": "Evolutionary Perspective"
+      },
+      {
+        "id": 12,
+        "label": "Autonomic Nervous System"
+      },
+      {
+        "id": 15,
+        "label": "Somatic Nervous System"
+      },
+      {
+        "id": 19,
+        "label": "Glial Cells"
+      },
+      {
+        "id": 20,
+        "label": "Sensory Neurons"
+      },
+      {
+        "id": 21,
+        "label": "Motor Neurons"
+      },
+      {
+        "id": 22,
+        "label": "Interneurons"
+      },
+      {
+        "id": 58,
+        "label": "Medulla Oblongata"
+      },
+      {
+        "id": 59,
+        "label": "Reticular Activating System"
+      },
+      {
+        "id": 62,
+        "label": "Thalamus"
+      },
+      {
+        "id": 63,
+        "label": "Hypothalamus"
+      },
+      {
+        "id": 64,
+        "label": "Hippocampus"
+      },
+      {
+        "id": 65,
+        "label": "Amygdala"
+      },
+      {
+        "id": 69,
+        "label": "Frontal Lobe"
+      },
+      {
+        "id": 70,
+        "label": "Parietal Lobe"
+      },
+      {
+        "id": 71,
+        "label": "Temporal Lobe"
+      },
+      {
+        "id": 72,
+        "label": "Occipital Lobe"
+      },
+      {
+        "id": 73,
+        "label": "Hemispheric Lateralization"
+      },
+      {
+        "id": 77,
+        "label": "REM Sleep"
+      },
+      {
+        "id": 78,
+        "label": "Non-REM Sleep"
+      },
+      {
+        "id": 80,
+        "label": "Sleep Deprivation"
+      },
+      {
+        "id": 9,
+        "label": "Natural Selection"
+      },
+      {
+        "id": 13,
+        "label": "Sympathetic Nervous System"
+      },
+      {
+        "id": 14,
+        "label": "Parasympathetic Nervous System"
+      },
+      {
+        "id": 17,
+        "label": "Reflex Arc"
+      },
+      {
+        "id": 66,
+        "label": "Pituitary Gland"
+      },
+      {
+        "id": 74,
+        "label": "Split-Brain Research"
+      },
+      {
+        "id": 82,
+        "label": "Dreams and Their Functions"
+      },
+      {
+        "id": 81,
+        "label": "Sleep Disorders"
+      }
+    ],
+    "count": 36
+  },
+  {
+    "num": 3,
+    "title": "Neurochemistry and Psychopharmacology",
+    "slug": "neurochemistry-psychopharmacology",
+    "summary": "Major neurotransmitter systems\u2014dopamine, serotonin, GABA, glutamate, and others\u2014and their roles in behavior and mental states; how psychoactive drugs alter neural communication; drug categories including stimulants, depressants, opioids, and hallucinogens; tolerance, dependence, and biological rhythms including circadian rhythms.",
+    "concepts": [
+      {
+        "id": 24,
+        "label": "All-or-None Principle"
+      },
+      {
+        "id": 23,
+        "label": "Neural Transmission"
+      },
+      {
+        "id": 25,
+        "label": "Resting Potential"
+      },
+      {
+        "id": 26,
+        "label": "Depolarization"
+      },
+      {
+        "id": 30,
+        "label": "Synaptic Threshold"
+      },
+      {
+        "id": 27,
+        "label": "Action Potential"
+      },
+      {
+        "id": 28,
+        "label": "Refractory Period"
+      },
+      {
+        "id": 31,
+        "label": "Neurotransmitters"
+      },
+      {
+        "id": 29,
+        "label": "Reuptake"
+      },
+      {
+        "id": 32,
+        "label": "Dopamine"
+      },
+      {
+        "id": 33,
+        "label": "Serotonin"
+      },
+      {
+        "id": 34,
+        "label": "Norepinephrine"
+      },
+      {
+        "id": 35,
+        "label": "Glutamate"
+      },
+      {
+        "id": 36,
+        "label": "GABA"
+      },
+      {
+        "id": 37,
+        "label": "Endorphins"
+      },
+      {
+        "id": 38,
+        "label": "Acetylcholine"
+      },
+      {
+        "id": 39,
+        "label": "Substance P"
+      },
+      {
+        "id": 40,
+        "label": "Hormones and Behavior"
+      },
+      {
+        "id": 46,
+        "label": "Psychoactive Drugs"
+      },
+      {
+        "id": 41,
+        "label": "Adrenaline (Epinephrine)"
+      },
+      {
+        "id": 42,
+        "label": "Leptin"
+      },
+      {
+        "id": 43,
+        "label": "Ghrelin"
+      },
+      {
+        "id": 44,
+        "label": "Melatonin"
+      },
+      {
+        "id": 45,
+        "label": "Oxytocin"
+      },
+      {
+        "id": 47,
+        "label": "Agonists"
+      },
+      {
+        "id": 48,
+        "label": "Antagonists"
+      },
+      {
+        "id": 49,
+        "label": "Reuptake Inhibitors"
+      },
+      {
+        "id": 50,
+        "label": "Stimulants"
+      },
+      {
+        "id": 51,
+        "label": "Depressants"
+      },
+      {
+        "id": 52,
+        "label": "Hallucinogens"
+      },
+      {
+        "id": 53,
+        "label": "Opioids"
+      },
+      {
+        "id": 54,
+        "label": "Drug Tolerance"
+      },
+      {
+        "id": 79,
+        "label": "Circadian Rhythms"
+      },
+      {
+        "id": 55,
+        "label": "Addiction"
+      },
+      {
+        "id": 56,
+        "label": "Withdrawal Symptoms"
+      }
+    ],
+    "count": 35
+  },
+  {
+    "num": 4,
+    "title": "Sensation and Perception",
+    "slug": "sensation-perception",
+    "summary": "Transduction of physical stimuli into neural signals; absolute and difference thresholds; signal detection theory; the visual system, auditory system, and other sensory modalities; perceptual organization principles, depth and motion cues, perceptual constancies, and the influence of context and attention on perception.",
+    "concepts": [
+      {
+        "id": 99,
+        "label": "Schemas"
+      },
+      {
+        "id": 83,
+        "label": "Absolute Threshold"
+      },
+      {
+        "id": 84,
+        "label": "Difference Threshold"
+      },
+      {
+        "id": 86,
+        "label": "Signal Detection Theory"
+      },
+      {
+        "id": 87,
+        "label": "Sensory Adaptation"
+      },
+      {
+        "id": 88,
+        "label": "Vision and the Eye"
+      },
+      {
+        "id": 89,
+        "label": "Audition and the Ear"
+      },
+      {
+        "id": 90,
+        "label": "Olfaction"
+      },
+      {
+        "id": 91,
+        "label": "Gustation"
+      },
+      {
+        "id": 92,
+        "label": "Somatosensation"
+      },
+      {
+        "id": 94,
+        "label": "Vestibular Sense"
+      },
+      {
+        "id": 95,
+        "label": "Kinesthesia"
+      },
+      {
+        "id": 96,
+        "label": "Bottom-Up Processing"
+      },
+      {
+        "id": 85,
+        "label": "Weber's Law"
+      },
+      {
+        "id": 93,
+        "label": "Gate-Control Theory of Pain"
+      },
+      {
+        "id": 97,
+        "label": "Top-Down Processing"
+      },
+      {
+        "id": 100,
+        "label": "Gestalt Principles"
+      },
+      {
+        "id": 105,
+        "label": "Binocular Depth Cues"
+      },
+      {
+        "id": 106,
+        "label": "Monocular Depth Cues"
+      },
+      {
+        "id": 108,
+        "label": "Apparent Movement"
+      },
+      {
+        "id": 98,
+        "label": "Perceptual Sets"
+      },
+      {
+        "id": 102,
+        "label": "Selective Attention"
+      },
+      {
+        "id": 107,
+        "label": "Perceptual Constancy"
+      },
+      {
+        "id": 101,
+        "label": "Figure and Ground"
+      },
+      {
+        "id": 103,
+        "label": "Cocktail Party Effect"
+      },
+      {
+        "id": 104,
+        "label": "Change Blindness"
+      }
+    ],
+    "count": 26
+  },
+  {
+    "num": 5,
+    "title": "Cognition and Thinking",
+    "slug": "cognition-thinking",
+    "summary": "Mental representations, concepts, and categories; problem-solving strategies and cognitive obstacles; reasoning, judgment, and decision-making heuristics and biases; the structure and development of language; the relationship between language and thought; consciousness, attention, and cognitive control.",
+    "concepts": [
+      {
+        "id": 109,
+        "label": "Concepts and Prototypes"
+      },
+      {
+        "id": 111,
+        "label": "Algorithms"
+      },
+      {
+        "id": 159,
+        "label": "Intelligence and the g Factor"
+      },
+      {
+        "id": 110,
+        "label": "Assimilation and Accommodation"
+      },
+      {
+        "id": 112,
+        "label": "Heuristics"
+      },
+      {
+        "id": 160,
+        "label": "Multiple Intelligences"
+      },
+      {
+        "id": 161,
+        "label": "IQ and Mental Age"
+      },
+      {
+        "id": 113,
+        "label": "Representativeness Heuristic"
+      },
+      {
+        "id": 114,
+        "label": "Availability Heuristic"
+      },
+      {
+        "id": 116,
+        "label": "Mental Set"
+      },
+      {
+        "id": 117,
+        "label": "Cognitive Biases"
+      },
+      {
+        "id": 162,
+        "label": "Standardized Testing"
+      },
+      {
+        "id": 165,
+        "label": "Flynn Effect"
+      },
+      {
+        "id": 120,
+        "label": "Executive Functions"
+      },
+      {
+        "id": 115,
+        "label": "Framing Effect"
+      },
+      {
+        "id": 118,
+        "label": "Gambler's Fallacy"
+      },
+      {
+        "id": 119,
+        "label": "Sunk-Cost Fallacy"
+      },
+      {
+        "id": 163,
+        "label": "Test Validity"
+      },
+      {
+        "id": 164,
+        "label": "Test Reliability"
+      },
+      {
+        "id": 168,
+        "label": "Achievement vs. Aptitude Tests"
+      },
+      {
+        "id": 121,
+        "label": "Creativity and Divergent Thinking"
+      },
+      {
+        "id": 122,
+        "label": "Functional Fixedness"
+      }
+    ],
+    "count": 22
+  },
+  {
+    "num": 6,
+    "title": "Memory: Encoding, Storage, and Models",
+    "slug": "memory-encoding-storage",
+    "summary": "Multi-store and levels-of-processing models of memory; sensory, working, and long-term memory systems; encoding processes including elaborative rehearsal, chunking, and mnemonics; explicit and implicit memory distinctions; semantic and episodic memory; the biological basis of memory consolidation.",
+    "concepts": [
+      {
+        "id": 123,
+        "label": "Explicit Memory"
+      },
+      {
+        "id": 124,
+        "label": "Implicit Memory"
+      },
+      {
+        "id": 131,
+        "label": "Multi-Store Memory Model"
+      },
+      {
+        "id": 125,
+        "label": "Episodic Memory"
+      },
+      {
+        "id": 126,
+        "label": "Semantic Memory"
+      },
+      {
+        "id": 128,
+        "label": "Prospective Memory"
+      },
+      {
+        "id": 127,
+        "label": "Procedural Memory"
+      },
+      {
+        "id": 132,
+        "label": "Sensory Memory"
+      },
+      {
+        "id": 135,
+        "label": "Levels of Processing"
+      },
+      {
+        "id": 133,
+        "label": "Short-Term Memory"
+      },
+      {
+        "id": 136,
+        "label": "Encoding Strategies"
+      },
+      {
+        "id": 129,
+        "label": "Long-Term Potentiation"
+      },
+      {
+        "id": 130,
+        "label": "Working Memory Model"
+      },
+      {
+        "id": 134,
+        "label": "Long-Term Memory"
+      },
+      {
+        "id": 137,
+        "label": "Mnemonic Devices"
+      },
+      {
+        "id": 138,
+        "label": "Chunking"
+      },
+      {
+        "id": 139,
+        "label": "Spacing Effect"
+      },
+      {
+        "id": 140,
+        "label": "Serial Position Effect"
+      }
+    ],
+    "count": 18
+  },
+  {
+    "num": 7,
+    "title": "Memory: Retrieval, Forgetting, and Distortion",
+    "slug": "memory-retrieval-forgetting",
+    "summary": "Retrieval cues, priming, and context-dependent memory; theories of forgetting including decay, proactive and retroactive interference, and motivated forgetting; memory reconstruction, misinformation effects, and false memories; flashbulb memories; amnesia, repressed memories, and clinical implications.",
+    "concepts": [
+      {
+        "id": 143,
+        "label": "Memory Storage"
+      },
+      {
+        "id": 146,
+        "label": "Retrieval Cues"
+      },
+      {
+        "id": 150,
+        "label": "Forgetting Curve"
+      },
+      {
+        "id": 157,
+        "label": "Anterograde Amnesia"
+      },
+      {
+        "id": 158,
+        "label": "Retrograde Amnesia"
+      },
+      {
+        "id": 141,
+        "label": "Primacy Effect"
+      },
+      {
+        "id": 142,
+        "label": "Recency Effect"
+      },
+      {
+        "id": 144,
+        "label": "Maintenance Rehearsal"
+      },
+      {
+        "id": 145,
+        "label": "Elaborative Rehearsal"
+      },
+      {
+        "id": 147,
+        "label": "Recall vs. Recognition"
+      },
+      {
+        "id": 151,
+        "label": "Proactive Interference"
+      },
+      {
+        "id": 152,
+        "label": "Retroactive Interference"
+      },
+      {
+        "id": 153,
+        "label": "Tip-of-the-Tongue Phenomenon"
+      },
+      {
+        "id": 154,
+        "label": "Repression"
+      },
+      {
+        "id": 155,
+        "label": "Misinformation Effect"
+      },
+      {
+        "id": 148,
+        "label": "Context-Dependent Memory"
+      },
+      {
+        "id": 149,
+        "label": "State-Dependent Memory"
+      },
+      {
+        "id": 156,
+        "label": "Constructive Memory"
+      }
+    ],
+    "count": 18
+  },
+  {
+    "num": 8,
+    "title": "Development: Prenatal Through Childhood",
+    "slug": "development-prenatal-childhood",
+    "summary": "Prenatal development stages and teratogen effects; physical, perceptual, and motor development in infancy; Piaget's cognitive-developmental stages through concrete operations; Vygotsky's sociocultural theory and scaffolding; language acquisition; temperament, attachment theory, and the effects of parenting styles.",
+    "concepts": [
+      {
+        "id": 169,
+        "label": "Developmental Psychology Themes"
+      },
+      {
+        "id": 170,
+        "label": "Cross-Sectional Research Design"
+      },
+      {
+        "id": 171,
+        "label": "Longitudinal Research Design"
+      },
+      {
+        "id": 172,
+        "label": "Prenatal Development"
+      },
+      {
+        "id": 177,
+        "label": "Piaget's Cognitive Stages"
+      },
+      {
+        "id": 190,
+        "label": "Language Acquisition"
+      },
+      {
+        "id": 197,
+        "label": "Temperament"
+      },
+      {
+        "id": 199,
+        "label": "Erikson's Psychosocial Stages"
+      },
+      {
+        "id": 385,
+        "label": "Gender and Sexual Orientation"
+      },
+      {
+        "id": 173,
+        "label": "Teratogens"
+      },
+      {
+        "id": 174,
+        "label": "Infant Physical Development"
+      },
+      {
+        "id": 178,
+        "label": "Sensorimotor Stage"
+      },
+      {
+        "id": 186,
+        "label": "Vygotsky's Sociocultural Theory"
+      },
+      {
+        "id": 192,
+        "label": "Linguistic Relativity"
+      },
+      {
+        "id": 193,
+        "label": "Babbling and Early Speech"
+      },
+      {
+        "id": 175,
+        "label": "Adolescent Development"
+      },
+      {
+        "id": 194,
+        "label": "Attachment Theory"
+      },
+      {
+        "id": 179,
+        "label": "Preoperational Stage"
+      },
+      {
+        "id": 182,
+        "label": "Object Permanence"
+      }
+    ],
+    "count": 19
+  },
+  {
+    "num": 9,
+    "title": "Development: Adolescence Through Adulthood",
+    "slug": "development-adolescence-adulthood",
+    "summary": "Physical and cognitive changes in adolescence including formal operational thinking; Kohlberg's moral development theory; Erikson's psychosocial stages across the full lifespan; identity formation and emerging adulthood; adult cognitive changes and wisdom; aging, end-of-life perspectives, and K\u00fcbler-Ross stages.",
+    "concepts": [
+      {
+        "id": 187,
+        "label": "Zone of Proximal Development"
+      },
+      {
+        "id": 176,
+        "label": "Adult and Aging Development"
+      },
+      {
+        "id": 191,
+        "label": "Critical Period for Language"
+      },
+      {
+        "id": 200,
+        "label": "Identity vs. Role Confusion"
+      },
+      {
+        "id": 195,
+        "label": "Secure Attachment"
+      },
+      {
+        "id": 196,
+        "label": "Insecure Attachment"
+      },
+      {
+        "id": 198,
+        "label": "Parenting Styles"
+      },
+      {
+        "id": 180,
+        "label": "Concrete Operational Stage"
+      },
+      {
+        "id": 183,
+        "label": "Conservation"
+      },
+      {
+        "id": 184,
+        "label": "Egocentrism"
+      },
+      {
+        "id": 188,
+        "label": "Scaffolding"
+      },
+      {
+        "id": 189,
+        "label": "Fluid vs. Crystallized Intelligence"
+      },
+      {
+        "id": 203,
+        "label": "Social Clock"
+      },
+      {
+        "id": 204,
+        "label": "K\u00fcbler-Ross Grief Stages"
+      },
+      {
+        "id": 181,
+        "label": "Formal Operational Stage"
+      },
+      {
+        "id": 201,
+        "label": "Kohlberg's Moral Development"
+      },
+      {
+        "id": 185,
+        "label": "Theory of Mind"
+      },
+      {
+        "id": 202,
+        "label": "Gilligan's Ethics of Care"
+      }
+    ],
+    "count": 18
+  },
+  {
+    "num": 10,
+    "title": "Learning and Conditioning",
+    "slug": "learning-conditioning",
+    "summary": "Classical conditioning: acquisition, extinction, spontaneous recovery, generalization, and discrimination; operant conditioning: reinforcement schedules, punishment, and shaping; Bandura's observational learning and social learning theory; cognitive factors in learning, latent learning, and insight; self-efficacy, growth mindset, and motivation.",
+    "concepts": [
+      {
+        "id": 205,
+        "label": "Classical Conditioning"
+      },
+      {
+        "id": 206,
+        "label": "Unconditioned Stimulus"
+      },
+      {
+        "id": 216,
+        "label": "Operant Conditioning"
+      },
+      {
+        "id": 230,
+        "label": "Neuroplasticity"
+      },
+      {
+        "id": 215,
+        "label": "Taste Aversion"
+      },
+      {
+        "id": 207,
+        "label": "Conditioned Stimulus"
+      },
+      {
+        "id": 217,
+        "label": "Positive Reinforcement"
+      },
+      {
+        "id": 218,
+        "label": "Negative Reinforcement"
+      },
+      {
+        "id": 219,
+        "label": "Positive Punishment"
+      },
+      {
+        "id": 220,
+        "label": "Negative Punishment"
+      },
+      {
+        "id": 224,
+        "label": "Social Learning Theory"
+      },
+      {
+        "id": 208,
+        "label": "Conditioned Response"
+      },
+      {
+        "id": 209,
+        "label": "Acquisition"
+      },
+      {
+        "id": 222,
+        "label": "Shaping Behavior"
+      },
+      {
+        "id": 221,
+        "label": "Schedules of Reinforcement"
+      },
+      {
+        "id": 384,
+        "label": "Positive and Negative Reinforcement Contrast"
+      },
+      {
+        "id": 223,
+        "label": "Learned Helplessness"
+      },
+      {
+        "id": 225,
+        "label": "Observational Learning"
+      },
+      {
+        "id": 228,
+        "label": "Cognitive Maps"
+      },
+      {
+        "id": 214,
+        "label": "Conditioned Emotional Response"
+      },
+      {
+        "id": 210,
+        "label": "Extinction"
+      },
+      {
+        "id": 212,
+        "label": "Stimulus Generalization"
+      },
+      {
+        "id": 226,
+        "label": "Bobo Doll Study"
+      },
+      {
+        "id": 227,
+        "label": "Self-Efficacy"
+      },
+      {
+        "id": 229,
+        "label": "Latent Learning"
+      },
+      {
+        "id": 211,
+        "label": "Spontaneous Recovery"
+      },
+      {
+        "id": 213,
+        "label": "Stimulus Discrimination"
+      },
+      {
+        "id": 167,
+        "label": "Fixed vs. Growth Mindset"
+      }
+    ],
+    "count": 28
+  },
+  {
+    "num": 11,
+    "title": "Social Psychology: Attitudes, Attribution, and Influence",
+    "slug": "social-psychology-attitudes-influence",
+    "summary": "Social cognition and person perception; attribution theory, fundamental attribution error, and actor-observer bias; attitude formation, cognitive dissonance, and persuasion; conformity (Asch), obedience (Milgram), and compliance techniques; prosocial behavior, bystander effect, and altruism; stereotypes and stereotype threat.",
+    "concepts": [
+      {
+        "id": 248,
+        "label": "Social Norms"
+      },
+      {
+        "id": 231,
+        "label": "Attribution Theory"
+      },
+      {
+        "id": 249,
+        "label": "Social Influence Theory"
+      },
+      {
+        "id": 263,
+        "label": "Social Facilitation"
+      },
+      {
+        "id": 232,
+        "label": "Fundamental Attribution Error"
+      },
+      {
+        "id": 234,
+        "label": "Self-Serving Bias"
+      },
+      {
+        "id": 238,
+        "label": "Social Comparison"
+      },
+      {
+        "id": 266,
+        "label": "Industrial-Organizational Psychology"
+      },
+      {
+        "id": 250,
+        "label": "Persuasion"
+      },
+      {
+        "id": 252,
+        "label": "Conformity"
+      },
+      {
+        "id": 253,
+        "label": "Obedience"
+      },
+      {
+        "id": 233,
+        "label": "Actor-Observer Bias"
+      },
+      {
+        "id": 239,
+        "label": "Stereotypes"
+      },
+      {
+        "id": 245,
+        "label": "Cognitive Dissonance"
+      },
+      {
+        "id": 251,
+        "label": "Elaboration Likelihood Model"
+      },
+      {
+        "id": 256,
+        "label": "Foot-in-the-Door Technique"
+      },
+      {
+        "id": 257,
+        "label": "Door-in-the-Face Technique"
+      },
+      {
+        "id": 255,
+        "label": "Asch Conformity Study"
+      },
+      {
+        "id": 166,
+        "label": "Stereotype Threat"
+      }
+    ],
+    "count": 19
+  },
+  {
+    "num": 12,
+    "title": "Social Psychology: Groups, Prejudice, and Aggression",
+    "slug": "social-psychology-groups-prejudice",
+    "summary": "Group dynamics including social facilitation, social loafing, deindividuation, and groupthink; prejudice, discrimination, and implicit bias; intergroup relations, in-group/out-group dynamics, and conflict reduction strategies; theories of aggression; interpersonal attraction and close relationships; cultural psychology and ethnocentrism.",
+    "concepts": [
+      {
+        "id": 258,
+        "label": "Group Polarization"
+      },
+      {
+        "id": 260,
+        "label": "Diffusion of Responsibility"
+      },
+      {
+        "id": 262,
+        "label": "Deindividuation"
+      },
+      {
+        "id": 254,
+        "label": "Milgram Obedience Study"
+      },
+      {
+        "id": 236,
+        "label": "Mere Exposure Effect"
+      },
+      {
+        "id": 240,
+        "label": "Prejudice and Discrimination"
+      },
+      {
+        "id": 246,
+        "label": "Belief Perseverance"
+      },
+      {
+        "id": 259,
+        "label": "Groupthink"
+      },
+      {
+        "id": 261,
+        "label": "Social Loafing"
+      },
+      {
+        "id": 264,
+        "label": "Bystander Effect"
+      },
+      {
+        "id": 237,
+        "label": "Self-Fulfilling Prophecy"
+      },
+      {
+        "id": 241,
+        "label": "Implicit Attitudes"
+      },
+      {
+        "id": 243,
+        "label": "In-Group Bias"
+      },
+      {
+        "id": 247,
+        "label": "Confirmation Bias"
+      },
+      {
+        "id": 265,
+        "label": "Altruism"
+      },
+      {
+        "id": 235,
+        "label": "Locus of Control"
+      },
+      {
+        "id": 242,
+        "label": "Just-World Phenomenon"
+      },
+      {
+        "id": 244,
+        "label": "Out-Group Homogeneity Bias"
+      }
+    ],
+    "count": 18
+  },
+  {
+    "num": 13,
+    "title": "Personality and Motivation",
+    "slug": "personality-motivation",
+    "summary": "Major personality theories: Freud's psychodynamic model, humanistic perspectives (Maslow, Rogers), trait theories including the Big Five, and social-cognitive models; personality assessment instruments; intrinsic vs. extrinsic motivation; Maslow's hierarchy of needs; self-determination theory; emotion theories and emotional intelligence.",
+    "concepts": [
+      {
+        "id": 267,
+        "label": "Psychodynamic Personality Theory"
+      },
+      {
+        "id": 284,
+        "label": "Drive-Reduction Theory"
+      },
+      {
+        "id": 268,
+        "label": "Ego Defense Mechanisms"
+      },
+      {
+        "id": 276,
+        "label": "Humanistic Personality Theory"
+      },
+      {
+        "id": 285,
+        "label": "Arousal Theory"
+      },
+      {
+        "id": 290,
+        "label": "Motivational Conflicts"
+      },
+      {
+        "id": 269,
+        "label": "Denial"
+      },
+      {
+        "id": 270,
+        "label": "Projection"
+      },
+      {
+        "id": 271,
+        "label": "Rationalization"
+      },
+      {
+        "id": 272,
+        "label": "Repression (Personality)"
+      },
+      {
+        "id": 273,
+        "label": "Displacement"
+      },
+      {
+        "id": 274,
+        "label": "Sublimation"
+      },
+      {
+        "id": 277,
+        "label": "Unconditional Positive Regard"
+      },
+      {
+        "id": 279,
+        "label": "Self-Concept"
+      },
+      {
+        "id": 286,
+        "label": "Yerkes-Dodson Law"
+      },
+      {
+        "id": 291,
+        "label": "Sensation Seeking"
+      },
+      {
+        "id": 278,
+        "label": "Self-Actualization"
+      },
+      {
+        "id": 275,
+        "label": "Projective Tests"
+      },
+      {
+        "id": 289,
+        "label": "Incentive Theory"
+      },
+      {
+        "id": 280,
+        "label": "Social-Cognitive Theory"
+      },
+      {
+        "id": 282,
+        "label": "Big Five Personality Traits"
+      },
+      {
+        "id": 287,
+        "label": "Self-Determination Theory"
+      },
+      {
+        "id": 283,
+        "label": "Personality Inventories"
+      },
+      {
+        "id": 281,
+        "label": "Reciprocal Determinism"
+      },
+      {
+        "id": 288,
+        "label": "Intrinsic vs. Extrinsic Motivation"
+      },
+      {
+        "id": 293,
+        "label": "Theories of Emotion"
+      },
+      {
+        "id": 294,
+        "label": "Facial-Feedback Hypothesis"
+      },
+      {
+        "id": 295,
+        "label": "Broaden-and-Build Theory"
+      },
+      {
+        "id": 296,
+        "label": "Universal Basic Emotions"
+      },
+      {
+        "id": 297,
+        "label": "Display Rules for Emotion"
+      },
+      {
+        "id": 292,
+        "label": "Hunger and Eating Behavior"
+      }
+    ],
+    "count": 31
+  },
+  {
+    "num": 14,
+    "title": "Health Psychology and Introduction to Psychological Disorders",
+    "slug": "health-psychology-intro-disorders",
+    "summary": "The biopsychosocial model of health; stress, coping strategies, and psychoneuroimmunology; health-promoting behaviors and lifestyle risk factors; the DSM-5 classification system and criteria for abnormality; an overview of anxiety disorders, OCD, and related conditions; the medical and psychological models of mental illness.",
+    "concepts": [
+      {
+        "id": 298,
+        "label": "Health Psychology"
+      },
+      {
+        "id": 307,
+        "label": "Positive Psychology"
+      },
+      {
+        "id": 308,
+        "label": "Well-Being and Resilience"
+      },
+      {
+        "id": 309,
+        "label": "Gratitude and Subjective Well-Being"
+      },
+      {
+        "id": 310,
+        "label": "Signature Strengths"
+      },
+      {
+        "id": 299,
+        "label": "Stress and Behavior"
+      },
+      {
+        "id": 300,
+        "label": "Eustress vs. Distress"
+      },
+      {
+        "id": 301,
+        "label": "Adverse Childhood Experiences"
+      },
+      {
+        "id": 302,
+        "label": "General Adaptation Syndrome"
+      },
+      {
+        "id": 305,
+        "label": "Problem-Focused Coping"
+      },
+      {
+        "id": 306,
+        "label": "Emotion-Focused Coping"
+      },
+      {
+        "id": 303,
+        "label": "Fight-Flight-Freeze Response"
+      },
+      {
+        "id": 304,
+        "label": "Tend-and-Befriend Response"
+      },
+      {
+        "id": 312,
+        "label": "Defining Psychological Disorders"
+      },
+      {
+        "id": 313,
+        "label": "DSM Classification System"
+      },
+      {
+        "id": 314,
+        "label": "ICD Classification System"
+      },
+      {
+        "id": 315,
+        "label": "Biopsychosocial Model"
+      },
+      {
+        "id": 318,
+        "label": "Behavioral Perspective on Disorders"
+      },
+      {
+        "id": 320,
+        "label": "Biological Perspective on Disorders"
+      },
+      {
+        "id": 321,
+        "label": "Sociocultural Perspective on Disorders"
+      },
+      {
+        "id": 350,
+        "label": "Evidence-Based Psychotherapy"
+      },
+      {
+        "id": 324,
+        "label": "Schizophrenia"
+      },
+      {
+        "id": 333,
+        "label": "Specific Phobia"
+      }
+    ],
+    "count": 23
+  },
+  {
+    "num": 15,
+    "title": "Psychological Disorders",
+    "slug": "psychological-disorders",
+    "summary": "In-depth examination of depressive and bipolar disorders, schizophrenia spectrum and other psychotic disorders, trauma- and stressor-related disorders including PTSD, dissociative disorders, somatic symptom disorders, eating disorders, and neurodevelopmental disorders; sociocultural perspectives on diagnosis and cultural context in psychopathology.",
+    "concepts": [
+      {
+        "id": 334,
+        "label": "Agoraphobia"
+      },
+      {
+        "id": 339,
+        "label": "Obsessive-Compulsive Disorder"
+      },
+      {
+        "id": 344,
+        "label": "Feeding and Eating Disorders"
+      },
+      {
+        "id": 347,
+        "label": "Personality Disorder Clusters"
+      },
+      {
+        "id": 351,
+        "label": "Psychodynamic Therapy"
+      },
+      {
+        "id": 353,
+        "label": "Behavioral Therapy"
+      },
+      {
+        "id": 355,
+        "label": "Humanistic (Person-Centered) Therapy"
+      },
+      {
+        "id": 356,
+        "label": "Group Therapy"
+      },
+      {
+        "id": 359,
+        "label": "Hypnosis in Treatment"
+      },
+      {
+        "id": 322,
+        "label": "ADHD"
+      },
+      {
+        "id": 323,
+        "label": "Autism Spectrum Disorder"
+      },
+      {
+        "id": 319,
+        "label": "Cognitive Perspective on Disorders"
+      },
+      {
+        "id": 325,
+        "label": "Positive Symptoms of Schizophrenia"
+      },
+      {
+        "id": 326,
+        "label": "Negative Symptoms of Schizophrenia"
+      },
+      {
+        "id": 340,
+        "label": "Hoarding Disorder"
+      },
+      {
+        "id": 348,
+        "label": "Antisocial Personality Disorder"
+      },
+      {
+        "id": 349,
+        "label": "Borderline Personality Disorder"
+      },
+      {
+        "id": 357,
+        "label": "Systematic Desensitization"
+      },
+      {
+        "id": 336,
+        "label": "Social Anxiety Disorder"
+      },
+      {
+        "id": 352,
+        "label": "Cognitive Therapy"
+      },
+      {
+        "id": 316,
+        "label": "Diathesis-Stress Model"
+      },
+      {
+        "id": 337,
+        "label": "Generalized Anxiety Disorder"
+      },
+      {
+        "id": 386,
+        "label": "Ethnocentrism"
+      }
+    ],
+    "count": 23
+  },
+  {
+    "num": 16,
+    "title": "Treatment and Therapy",
+    "slug": "treatment-therapy",
+    "summary": "Psychodynamic, humanistic, behavioral, and cognitive-behavioral therapies; DBT, ACT, and third-wave CBT approaches; group, family, and community therapy modalities; psychopharmacological treatments\u2014antidepressants, antipsychotics, anxiolytics, and mood stabilizers; evaluating therapy effectiveness; culturally responsive and integrative treatment approaches.",
+    "concepts": [
+      {
+        "id": 317,
+        "label": "Stigma in Mental Health"
+      },
+      {
+        "id": 354,
+        "label": "Cognitive-Behavioral Therapy"
+      },
+      {
+        "id": 343,
+        "label": "PTSD"
+      },
+      {
+        "id": 358,
+        "label": "Biofeedback"
+      },
+      {
+        "id": 341,
+        "label": "Dissociative Amnesia"
+      },
+      {
+        "id": 342,
+        "label": "Dissociative Identity Disorder"
+      },
+      {
+        "id": 360,
+        "label": "Psychotropic Medications"
+      },
+      {
+        "id": 327,
+        "label": "Dopamine Hypothesis"
+      },
+      {
+        "id": 328,
+        "label": "Major Depressive Disorder"
+      },
+      {
+        "id": 362,
+        "label": "Antianxiety Medications"
+      },
+      {
+        "id": 363,
+        "label": "Antipsychotic Medications"
+      },
+      {
+        "id": 365,
+        "label": "Transcranial Magnetic Stimulation"
+      },
+      {
+        "id": 329,
+        "label": "Persistent Depressive Disorder"
+      },
+      {
+        "id": 330,
+        "label": "Bipolar I Disorder"
+      },
+      {
+        "id": 361,
+        "label": "Antidepressants"
+      },
+      {
+        "id": 364,
+        "label": "Electroconvulsive Therapy"
+      },
+      {
+        "id": 331,
+        "label": "Bipolar II Disorder"
+      },
+      {
+        "id": 332,
+        "label": "Mania"
+      },
+      {
+        "id": 335,
+        "label": "Panic Disorder"
+      },
+      {
+        "id": 345,
+        "label": "Anorexia Nervosa"
+      },
+      {
+        "id": 346,
+        "label": "Bulimia Nervosa"
+      },
+      {
+        "id": 338,
+        "label": "Culture-Bound Anxiety Disorders"
+      },
+      {
+        "id": 311,
+        "label": "Posttraumatic Growth"
+      }
+    ],
+    "count": 23
+  }
+]

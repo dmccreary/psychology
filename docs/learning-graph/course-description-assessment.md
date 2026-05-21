@@ -1,0 +1,94 @@
+# Course Description Assessment: AP Psychology
+
+**Skill Version:** 0.03  
+**Assessment Date:** 2026-05-21  
+**Source file:** `/docs/course-description.md`  
+**Concept list basis:** `/docs/learning-graph/concept-list-from-college-board.md`
+
+---
+
+## Overall Score: 100 / 100
+
+**Quality Rating: Excellent — Ready for learning graph generation**
+
+---
+
+## Detailed Scoring Breakdown
+
+| Element | Max Points | Earned | Notes |
+|---|---|---|---|
+| **Title** | 5 | 5 | "AP Psychology (Advanced Placement Psychology)" — clear, specific, and matches site_name |
+| **Target Audience** | 5 | 5 | Grades 11–12 high school students seeking college credit; no prior psychology assumed |
+| **Prerequisites** | 5 | 5 | Explicitly stated as "None" with helpful context (reading proficiency, basic biology/numeracy) |
+| **Main Topics Covered** | 10 | 10 | 6 comprehensive topics covering all 5 AP CED units plus Research Methods as a cross-cutting domain |
+| **Topics Excluded** | 5 | 5 | 9 explicit exclusions with AP Exam scope rationale (genetics detail, psychosexual stages, full DSM, etc.) |
+| **Learning Outcomes Header** | 5 | 5 | Clear header: "By the end of this course, students will be able to:" |
+| **Remember Level** | 10 | 10 | 11 specific, actionable outcomes using verbs: recall, name, list, identify |
+| **Understand Level** | 10 | 10 | 11 specific outcomes using verbs: explain, describe |
+| **Apply Level** | 10 | 10 | 9 specific outcomes using verbs: apply, design, use |
+| **Analyze Level** | 10 | 10 | 8 specific outcomes using verbs: analyze, distinguish, differentiate |
+| **Evaluate Level** | 10 | 10 | 8 specific outcomes using verbs: evaluate, assess |
+| **Create Level** | 10 | 10 | 7 outcomes using verbs: construct, design, develop, synthesize, produce — includes capstone projects |
+| **Descriptive Context** | 5 | 5 | Audience, purpose, AP Exam alignment, and CED source clearly stated |
+| **TOTAL** | **100** | **100** | |
+
+---
+
+## Gap Analysis
+
+No significant gaps identified. The course description is comprehensive and directly grounded in the College Board's AP Psychology Course and Exam Description (CED), Effective Fall 2024.
+
+Minor observations (not score-deducting):
+- The "Descriptive Context" section could optionally include a 1–2 sentence course importance narrative, but the audience/prerequisite framing adequately serves this purpose.
+- The Research Methods topic is listed as cross-cutting; the learning graph generator may need a reminder to distribute research method concepts across units rather than clustering them in one node group.
+
+---
+
+## Improvement Suggestions
+
+The description is ready for learning graph generation. Optional enhancements for future iterations:
+
+1. **Add an introductory paragraph** (2–3 sentences) about why psychology matters — useful for marketing the book and for the index page. Example: *"Psychology is the scientific study of behavior and mental processes. Understanding psychology helps students make sense of their own minds, relationships, and society."*
+2. **Consider adding interdisciplinary connections** — noting that psychology intersects with neuroscience, sociology, philosophy, and education would help the learning graph generator identify bridging concepts.
+3. **Optional: add a "Key Theorists" section** listing the ~30 historical figures referenced in the CED — this would directly seed biographies or sidebar content in the textbook.
+
+---
+
+## Concept Generation Readiness
+
+| Dimension | Assessment |
+|---|---|
+| **Topic breadth** | Excellent — 6 major topic areas with 28 sub-topics from the CED |
+| **Bloom's Taxonomy coverage** | Complete — all 6 levels present with 3+ outcomes each |
+| **Concept signal density** | Very high — concept list file enumerates 200+ named concepts already |
+| **Estimated concept yield** | 200–250 concepts (well above the 200 minimum) |
+| **Research Methods scope** | Clearly defined as cross-cutting — will generate ~20–25 methodology concepts |
+| **Historical figures** | ~30 key researchers named — each yields 2–4 concepts (theory, key study, key finding) |
+
+**Verdict: The course description is ready for immediate learning graph generation.**
+
+---
+
+## Topics → Estimated Concept Counts
+
+| Unit / Topic Area | Estimated Concepts |
+|---|---|
+| Unit 1: Biological Bases of Behavior | 35–45 |
+| Unit 2: Cognition | 35–45 |
+| Unit 3: Development and Learning | 40–50 |
+| Unit 4: Social Psychology and Personality | 40–50 |
+| Unit 5: Mental and Physical Health | 45–55 |
+| Research Methods (cross-cutting) | 20–25 |
+| **Total estimate** | **215–270** |
+
+---
+
+## Next Steps
+
+1. **Proceed to `learning-graph-generator`** — the course description scores 100/100 and the concept list provides a rich seed for enumeration.
+2. The `concept-list-from-college-board.md` file should be passed to the learning graph generator as a supplementary seed document.
+3. After the learning graph is generated, run `book-chapter-generator` to create the chapter structure.
+
+---
+
+*Generated by the `course-description-analyzer` skill v0.03 on 2026-05-21.*
