@@ -26,8 +26,22 @@ nav:
 
   - Chapters:
       - List of Chapters: chapters/index.md
-      # Add chapter entries here as content is generated, e.g.:
-      # - 1. Introduction: chapters/01-introduction/index.md
+      - 1. Foundations & Research Methods: chapters/01-foundations-research-methods/index.md
+      - 2. Biological Bases of Behavior: chapters/02-biological-bases-behavior/index.md
+      - 3. Neurochemistry & Psychopharmacology: chapters/03-neurochemistry-psychopharmacology/index.md
+      - 4. Sensation and Perception: chapters/04-sensation-perception/index.md
+      - 5. Cognition and Thinking: chapters/05-cognition-thinking/index.md
+      - 6. Memory - Encoding & Storage: chapters/06-memory-encoding-storage/index.md
+      - 7. Memory - Retrieval & Forgetting: chapters/07-memory-retrieval-forgetting/index.md
+      - 8. Development - Prenatal to Childhood: chapters/08-development-prenatal-childhood/index.md
+      - 9. Development - Adolescence to Adulthood: chapters/09-development-adolescence-adulthood/index.md
+      - 10. Learning and Conditioning: chapters/10-learning-conditioning/index.md
+      - 11. Social Psych - Attitudes & Influence: chapters/11-social-psychology-attitudes-influence/index.md
+      - 12. Social Psych - Groups & Prejudice: chapters/12-social-psychology-groups-prejudice/index.md
+      - 13. Personality and Motivation: chapters/13-personality-motivation/index.md
+      - 14. Health Psych & Intro to Disorders: chapters/14-health-psychology-intro-disorders/index.md
+      - 15. Psychological Disorders: chapters/15-psychological-disorders/index.md
+      - 16. Treatment and Therapy: chapters/16-treatment-therapy/index.md
 
   - Learning Graph:
       - Introduction: learning-graph/index.md
@@ -37,6 +51,7 @@ nav:
       - Graph Quality Analysis: learning-graph/quality-metrics.md
       - Concept Taxonomy: learning-graph/concept-taxonomy.md
       - Taxonomy Distribution Report: learning-graph/taxonomy-distribution.md
+      - Mascot Style Guide: learning-graph/mascot-test.md
 
   - MicroSims:
       - List of MicroSims: sims/index.md
@@ -108,6 +123,7 @@ markdown_extensions:
 # Custom CSS — file is created by init-textbook
 extra_css:
   - css/extra.css
+  - css/mascot.css
 
 # Custom JavaScript — uncomment once a corresponding file exists
 # extra_javascript:
