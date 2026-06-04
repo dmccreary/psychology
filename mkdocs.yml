@@ -89,6 +89,15 @@ plugins:
   - search
   # Uncomment after running `pip install "mkdocs-material[imaging]"`:
   # - social
+
+# Hooks -- loaded as raw Python modules, not plugins (avoids name collisions).
+# `plugins/social_override.py` injects og:title, og:description, og:image and
+# twitter:* meta tags on every page using the page's frontmatter `image:` (and
+# falling back to `img/cover.png` site-wide). When the optional `social` plugin
+# above is enabled, the same hook replaces its auto-generated
+# /assets/images/social/ tags with the declared cover image.
+hooks:
+  - plugins/social_override.py
   # Uncomment after running `pip install mkdocs-glightbox`:
   # - glightbox:
   #     touchNavigation: true
